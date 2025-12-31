@@ -19,7 +19,7 @@ width: 200;
 height: auto;
 }
 
-
+//navigation
 .nav-toggle {
   display: none;
 }
@@ -133,4 +133,33 @@ height: auto;
   align-items: center;
 }
 
+/* Make nav links fill the row */
+.site-nav a,
+.site-nav summary {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  text-decoration: none;
+}
+/* Parent nav items */
+.site-nav a:hover,
+.site-nav summary:hover {
+  background-color: #f0f0f0;
+}
+/* Child nav items */
+.site-nav .sub-menu a:hover {
+  background-color: #e8e8e8;
+}
+@media (min-width: 768px) {
+  details:hover > summary {
+    background-color: #f0f0f0;
+  }
+}
+.site-nav a:active,
+.site-nav summary:active {
+  background-color: #e0e0e0;
+}
+.site-nav a,
+.site-nav summary {
+  transition: background-color 0.15s ease-in-out;
+}
 
