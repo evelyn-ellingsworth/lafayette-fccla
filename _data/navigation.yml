@@ -1,18 +1,19 @@
 - title: About
   children:
-  - title: Chapter Leadership
-    url: /test-site/chapter-Leadership
-  - title: Supporters
-    url: /test-site/supporter-rec
-- title: Awards and Recognition
-    url: /test-site/A&R
-- title: Activities
-   url: /test-site/activities
-- title: Program of Work
-    url: /test-site/program-work
-    
+    - title: Chapter Leadership
+      url: /test-site/chapter-leadership
+    - title: Supporters
+      url: /test-site/supporter-rec
+    - title: Awards and Recognition
+      url: /test-site/awards-recognition
+    - title: Activities
+      url: /test-site/activities
+    - title: Program of Work
+      url: /test-site/program-work
+
 - title: Join
- url: /test-site/membership
+  url: /test-site/membership
 
 - title: FCS
   url: /test-site/FCS
+
