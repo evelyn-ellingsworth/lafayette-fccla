@@ -22,6 +22,8 @@ layout: home
   </figure>
 </div>
 
+  ![Alt text]({{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+  
 
 <div class="image-container-3">
   <figure class="image-item-3">
