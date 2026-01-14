@@ -42,7 +42,7 @@ layout: home
     <div class="text-content-1">
       <h2>Star Events:</h2>
       <p>
-        Students Taking Action with Recognition (STAR) Events are competitive events in which members, or teams, choose a project to complete within a school year. These projects can vary from fashion design, to food sciences, to public policy and outreach and students are encouraged to choose one that aligns with their interests or allows them to solve problems that they are passionate about. Participants in STAR Events compete against one another at regional, state, and national conferences.
+        Students Taking Action with Recognition (STAR) Events are competitive events in which members, or teams, choose a project to complete within a school year. These projects can vary from fashion design, to food sciences, to public policy and outreach and students are encouraged to choose one that aligns with their interests or allows them to solve problems that they are passionate about. Participants in STAR Events compete against one another at regional, state, and national conferences.  
       </p>
     </div>
 </div>
