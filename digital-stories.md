@@ -23,11 +23,11 @@ https://drive.google.com/file/d/1dq8NeiPXzS62p2L37VXrQxggmKMnQy9C/view?usp=shari
     FCCLA Project Identification Page
   </a>
 
-  <a href="https://example.com/file2.pdf" class="btn-primary" target="_blank" rel="noopener">
+  <a href="https://drive.google.com/file/d/10-cZpDgcXJehHui2FEdheumiHH1clY8X/view?usp=sharing" class="btn-primary" target="_blank" rel="noopener">
     FCCLA Works Cited
   </a>
 
-  <a href="https://example.com/file3.pdf" class="btn-primary" target="_blank" rel="noopener">
+  <a href="https://drive.google.com/file/d/1MuIEn4GsSdpnXWXV7ujrjR55G2PX86CH/view?usp=sharing" class="btn-primary" target="_blank" rel="noopener">
     Planning Process Summary Page
   </a>
 </div>
