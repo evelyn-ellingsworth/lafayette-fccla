@@ -17,7 +17,7 @@ layout: default
     <h3>Regional</h3>
     <summary>Awards won at regional conference.</summary>
     <details>
-      <summary>--</summary>
+      <summary>>2023-2024.</summary>
 
       <details class="nested">
         <summary>Nested Option A</summary>
@@ -46,8 +46,11 @@ layout: default
     <h3>National</h3>
     <summary>Awards won at national conference.</summary>
     <details>
-      <summary>--</summary>
-      <p>Another dropdown section</p>
+      <summary>2023-2024</summary>
+      <details class="nested">
+        <summary>Interior Design</summary>
+        <p>Gold</p>
+      </details>
     </details>
   </section>
 </div>
