@@ -409,7 +409,7 @@
 
 
 //text color for non submenu nav items
-a:visited {
+ a:link, a:visited, a:hover, a:active {
     color: #000000;
 }
 
