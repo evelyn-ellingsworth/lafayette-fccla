@@ -16,7 +16,7 @@ layout: home
       </p>
     </div>
 
-    ![Alt text]({{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg)
+    <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
          alt="Picture of FCCLA"
          class="image-size-1">
   </figure>
