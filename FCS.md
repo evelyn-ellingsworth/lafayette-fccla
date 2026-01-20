@@ -82,3 +82,6 @@ layout: default
     <a href="https://fcclainc.org/compete/competitive-events/awards-scholarships" class="action-btn">National FCCLA</a>
   </div>
 </div>
+
+<div class ="spacer">
+</div>
