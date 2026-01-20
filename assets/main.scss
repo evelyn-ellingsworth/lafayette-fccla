@@ -432,6 +432,7 @@
 }
 .column-1 h3{
   font-weight: bold;
+  color: 41536a;
 }
 
 //awards columns
@@ -441,9 +442,7 @@
   gap: 2rem;
   margin: 2rem 0;
 }
-.column-1 .summary {
-  padding-top: 20px;
-}
+
 .column-1 {
   padding: 1rem;
   border: 1px solid #ddd;
@@ -457,15 +456,21 @@ details {
   padding-top: 30px;
 }
 
+.column-1 p1 {
+  font-weight: 500;
+}
+
 summary {
   cursor: pointer;
   list-style: none;
+
+
 }
 
 
 //Nested dropdown spacing 
 details.nested {
-  margin-left: 1rem;
+ border-top: 1px solid #e8e8e8;;
   margin-top: 0.5rem;
 }
 
