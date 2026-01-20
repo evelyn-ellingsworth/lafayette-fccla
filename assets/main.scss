@@ -975,9 +975,6 @@ details.nested {
   height: 100%;
   border: 0;
 }
-.spacer {
- padding: 20px;
-}
 
 
 /* -------- MOBILE -------- */
@@ -1005,6 +1002,7 @@ details.nested {
   align-items: start;
   padding-top: 20px;
   text-decoration: none;
+ padding-bottom: 20px;
 }
 .text-buttons h3{
   font-weight: bold;
