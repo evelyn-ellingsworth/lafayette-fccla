@@ -150,6 +150,7 @@ layout: default
       <p>
         The job of vice president of public relations is to manage all of the chapter’s official social media accounts and insure that all information gets to chapter members. 
       </p>
+      <p>May has been a member of FCCLA for three years has competed in STAR Events for the last two years. She has won first at regionals and place top two at state both years. Last year she placed fourth in the nation in Career Investigations. May hopes to get her doctorate and pursue a career as an orthodontist. </p>
     </div>
 
         <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
