@@ -643,7 +643,13 @@ details.nested {
   padding-top: 20px;
   border-bottom: 1px solid #e8e8e8;
 }
-
+.text-content h2 {
+ font-weight:bold;
+}
+.text-content h3{
+ font-weight:bold;
+  color:#ef3e42;
+}
 .image-item-2{
   display: grid;
   grid-template-columns: 1fr auto;
@@ -927,7 +933,7 @@ details.nested {
   font-weight: bold;
 }
 
-.program-overview h3 {
+.program-overview h2 {
   font-weight: bold;
   color: #ef3e42;
   text-align: center;
@@ -985,6 +991,7 @@ details.nested {
 .action-btn{
   background-color: #41536a !important;
   color:#fff !important;
+  text-decoration: none !important;
 }
 .action-btn:hover{
   background-color: #364259 !important;  
@@ -1032,6 +1039,7 @@ details.nested {
   border: 0;
 }
 
+
 /* -------- MOBILE -------- */
 @media (max-width: 768px) {
   .fcs-top {
@@ -1056,6 +1064,8 @@ details.nested {
   gap: 2rem;
   align-items: start;
   padding-top: 20px;
+  text-decoration: none;
+ padding-bottom: 20px;
 }
 .text-buttons h3{
   font-weight: bold;
@@ -1072,6 +1082,7 @@ details.nested {
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
+  text-decoration: none;
 }
 
 /* Button styling */
