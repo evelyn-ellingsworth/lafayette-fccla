@@ -133,10 +133,11 @@ layout: default
       <p>
         The job of vice president of competitive events is to support members competing in competitive events.
       </p>
+      <p>DeLeigha has been a member of FCCLA for six years and has placed first in the nation three times for STAR Events. She hopes to attend Harvard University and have a career in law.</p>
     </div>
 
-        <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
-         alt="Picture of FCCLA"
+        <img src="{{site.baseurl}}/assets/images/deleigha.png"
+         alt="Picture of Chapter Vice President of Competitive Events"
          class="image-size-1">
   </figure>
 </div>
