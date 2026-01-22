@@ -19,26 +19,26 @@ layout: default
 
 
 <div class="button-row">
-  <a href="https://drive.google.com/file/d/1dq8NeiPXzS62p2L37VXrQxggmKMnQy9C/view?usp=sharing" class="btn-primary" target="_blank" rel="noopener">
+  <a href="https://drive.google.com/file/d/1dq8NeiPXzS62p2L37VXrQxggmKMnQy9C/view" class="btn-primary" target="_blank" rel="noopener">
     FCCLA Project Identification Page
   </a>
 
-  <a href="https://drive.google.com/file/d/10-cZpDgcXJehHui2FEdheumiHH1clY8X/view?usp=sharing" class="btn-primary" target="_blank" rel="noopener">
+  <a href="https://drive.google.com/file/d/10-cZpDgcXJehHui2FEdheumiHH1clY8X/view" class="btn-primary" target="_blank" rel="noopener">
     FCCLA Works Cited
   </a>
 
-  <a href="https://drive.google.com/file/d/1MuIEn4GsSdpnXWXV7ujrjR55G2PX86CH/view?usp=sharing" class="btn-primary" target="_blank" rel="noopener">
+  <a href="https://drive.google.com/file/d/1rY2J6ETPxX8ADIWkRnYr4a4Mp_Gzr6yG/view?usp=sharing" class="btn-primary" target="_blank" rel="noopener">
     Planning Process Summary Page
   </a>
 </div>
 
 <div class="button-row-1">
-  <a href="https://example.com/file1.pdf" class="btn-primary" target="_blank" rel="noopener">
+  <a href="https://drive.google.com/file/d/1AH0_uNz7TTyQJEmg7e8tudQQOhugXfZG/view" class="btn-primary" target="_blank" rel="noopener">
     Project Summary Page
   </a>
 
-  <a href="https://example.com/file2.pdf" class="btn-primary" target="_blank" rel="noopener">
-    PDF Two
+  <a href="https://drive.google.com/file/d/1CkMSVVX4JOQqvF66nuWSUvLwA6048eWk/view" class="btn-primary" target="_blank" rel="noopener">
+    Summary Form Submission
  </a>
 </div>
 
