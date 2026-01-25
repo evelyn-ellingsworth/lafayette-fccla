@@ -68,6 +68,12 @@
   max-width: 300px;  // desktop + mobile consistency
   height: auto;
 }
+.footer-social{
+  width: auto;
+  height: 50px;
+  vertical-align: middle;
+  padding-top: 20px;
+}
 .footer-logo{
   width: auto;
   height: 250px;
@@ -389,6 +395,16 @@
   gap: 0.5rem;
 }
 
+
+  .right-aligned-image-content {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    @media (min-width: 768px) {
+      margin-left: auto;
+    }
+}
+
 .text-content-1 h2{
   font-weight: bold;
   color: #ef3e42
@@ -424,12 +440,15 @@
     margin: 0 auto;
   }
 
+  .right-aligned-image-content {
+    order: -1;
+    margin: 0 auto;
+  }
+
   .text-content-1 {
     text-align: auto;
   }
 }
-
-
 
 //our-chapter intro formatting
 .intro-chapter-section{
@@ -540,10 +559,17 @@ details.nested {
 .overall-thanks-section{
   padding-top: 20px;
 }
+.info h3 {
+  padding-top: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
 //format for lafayette pic heading
 .image-container {
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 20px;
   margin: 1.5rem 0;
 }
@@ -664,6 +690,7 @@ details.nested {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+
 }
 
 /* Image */
@@ -864,6 +891,8 @@ details.nested {
 
 
 //membership formating
+
+
 .why-join-overview {
   padding-top: 20px;
 }
@@ -890,6 +919,9 @@ details.nested {
   color: #ef3e42
 }
 
+.text-content-2 a{
+  text-decoration: underline;
+}
 
 .header-test h2{
   text-align: center;
@@ -1069,6 +1101,7 @@ details.nested {
   padding-top: 20px;
   text-decoration: none;
  padding-bottom: 20px;
+ align-items: center;
 }
 .text-buttons h3{
   font-weight: bold;
@@ -1143,4 +1176,10 @@ details.nested {
 .overall-contact-section{
   padding-top: 20px;
   text-align: center;
+}
+
+
+
+.pic-border{
+  border: 7px solid #ef3e42;
 }

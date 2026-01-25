@@ -48,14 +48,27 @@ layout: default
       <p>Our membership officers and committee members decorate a bulletin board with the current theme of the next chapter meeting along with any information about activities that we are planning.  
       </p>
       <h3>Social Media </h3>
-      <p>Announcements for meetings and activities are placed on our Instagram and TikTok pages each month, spreading the word and inviting others to join in.
+      <p>Announcements for meetings and activities are placed on our <a href = "https://www.instagram.com/yettefccla?igsh=
+        MXFuMWI1YWpzcXgwbw%3D%3D&utm_-source=qr" target= "_blank">Instagram</a> and <a href = "https://www.tiktok.com/@yettefccla?_r=1&_t=ZP-931IJExCFyB" target= "_blank">TikTok</a> pages each month, spreading the word and inviting others to join in.
       </p>
       <h3> Collaborations With Other Clubs </h3>
       <p>This year we have worked with DECA, National Beta Club, and the National Honor Society on community service projects. This makes us more visible as a club and shows others who are already interested in helping their community what they could do in FCCLA.
       </p>
-      <h3>Open House </h3>
-      <p>Every year our school does an eighth grade open house. Our chapter joins in with a booth in the clubs section to introduce Lafayette FCCLA to incoming freshmen.
-      </p>
+      <div class="image-container-3">
+        <figure class="image-item-3">
+          <div class="text-content-1">
+          <h3>Open House</h3>
+          <p>
+          Every year our school does an eighth grade open house. Our chapter joins in with a booth in the clubs section to introduce Lafayette FCCLA to incoming freshmen. 
+        </p>
+        </div>
+        <div class = "right-aligned-image-content">
+          <img src="{{site.baseurl}}/assets/images/outreach.JPG"
+            alt="Picture of FCCLA"
+            class="image-size-1" class ="pic-border">
+        </div>
+        </figure>
+      </div>
     </div>
 </div>
 
@@ -70,15 +83,27 @@ layout: default
       </p>
       </div>
       <div class="punch-card">
-      <h3>Punch Card </h3>
-      <p>
-        Being in FCCLA is its own reward, but who doesn’t want more? Members who attend full chapter meetings, STAR Event meetings, or other chapter hosted events will gain a hole in their punch card. The member with the most will win a gift card at the end of the school year.
-      </p>
+      <div class="image-container-3">
+        <figure class="image-item-3">
+          <div class="text-content-1">
+          <h3>Punch Card </h3>
+          <p>
+          Being in FCCLA is its own reward, but who doesn’t want more? Members who attend full chapter meetings, STAR Event meetings, or other chapter hosted events will gain a hole in their punch card. The member with the most will win a gift card at the end of the school year. 
+        </p>
+        </div>
+        <div class = "right-aligned-image-content">
+          <img src="{{site.baseurl}}/assets/images/punchcard.png"
+            alt="Picture of FCCLA"
+            class="image-size-1">
+        </div>
+        </figure>
+      </div>
       </div>
       <div class="social-media">
       <h3>Social Media </h3>
       <p>
-        Our members accomplish amazing things and they deserve to be recognized for their hard work. As a chapter, we are planning to honor a different member each month, showcasing their talents on our social media.
+        Our members accomplish amazing things and they deserve to be recognized for their hard work. As a chapter, we are planning to honor a different member each month, showcasing their talents on our <a href = "https://www.instagram.com/yettefccla?igsh=
+        MXFuMWI1YWpzcXgwbw%3D%3D&utm_-source=qr" target= "_blank">Instagram</a> and <a href = "https://www.tiktok.com/@yettefccla?_r=1&_t=ZP-931IJExCFyB" target= "_blank">TikTok</a> pages.
       </p>
       </div>
     </div>

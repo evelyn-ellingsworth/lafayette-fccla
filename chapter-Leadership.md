@@ -7,7 +7,7 @@ layout: default
 </div>
 
 <div class="officer-overview">
-    <h3>For the 2025-2026 school year, we have eight officers that, with the help of our advisors, run the Lafayette Senior High School FCCLA Chapter.</h3>
+    <h3>For the 2025-2026 school year, we have seven officers that, with the help of our advisors, run the Lafayette Senior High School FCCLA Chapter.</h3>
 </div> 
 
 <!--president-->
@@ -138,23 +138,6 @@ layout: default
 
         <img src="{{site.baseurl}}/assets/images/deleigha.png"
          alt="Picture of Chapter Vice President of Competitive Events"
-         class="image-size-1">
-  </figure>
-</div>
-
-<!--Vice president of Finance-->
-<div class="image-container-2">
-  <figure class="image-item-2">
-    <div class="text-content">
-      <h2>Vice President of Finance</h2>
-      <h3>Leah Hukle</h3>
-      <p>
-        The job of vice president of finance is to collect dues from members and manage finances for the chapter.
-      </p>
-    </div>
-
-        <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
-         alt="Picture of FCCLA"
          class="image-size-1">
   </figure>
 </div>

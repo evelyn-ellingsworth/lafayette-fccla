@@ -56,7 +56,7 @@ layout: default
     <p>
       If you are interested in continuing your family and consumer sciences education beyond high school, consider these in-state colleges.
     </p>
-    <p>EKU, WKU, and Murray are the only in-state colleges that have a specific Family and Consumer Science degree. However, Louisville and UK both have degrees for many related occupations. </p> 
+    <p>Eastern Kentucky University, Western Kentucky University, and Murray State University are the only in-state colleges that have a specific Family and Consumer Science degree. However, the University of Louisville and the University of Kentucky both have degrees for many related occupations. </p> 
   </div>
 
   <div class="button-group">
