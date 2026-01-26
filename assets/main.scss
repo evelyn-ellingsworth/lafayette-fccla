@@ -72,12 +72,31 @@
   width: auto;
   height: 50px;
   vertical-align: middle;
-  padding-top: 20px;
+
 }
 .footer-logo{
   width: auto;
   height: 250px;
   vertical-align: middle;
+}
+.socials {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap:30px;
+}
+.email{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap:15px;
+}
+.email h2{
+  margin-bottom: 0px;
 }
 
 //navigation
@@ -370,10 +389,27 @@
 //bolding header text
 .intro-overall-section h2{
   font-weight: bold;
-  color: #ef3e42
+  color: #ef3e42;
   
 }
 
+.rotate-section{
+
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+
+}
+.rotate-section h3{
+  font-weight: bold;
+  font-style: italic;
+
+}
+.rotate-section h2{
+  color:  #ef3e42;
+  font-weight: bold;
+}
 
 .image-container-3 {
   max-width: 900px;
@@ -982,6 +1018,9 @@ details.nested {
 
 
 
+
+///program of work
+
 .program-work-pdf {
   padding-top: 2rem;    
   padding-bottom: 2rem;     /* space above the PDF */
@@ -1177,9 +1216,29 @@ details.nested {
   padding-top: 20px;
   text-align: center;
 }
-
+.advisor-email-section a{
+  text-decoration: underline;
+}
 
 
 .pic-border{
   border: 7px solid #ef3e42;
+}
+
+
+//Project Components
+.components-title h2{
+  font-weight: bold;
+  text-align: center;
+}
+
+.pdf-container{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+@media (max-width: 600px) {
+  .pdf-container object,
+  .pdf-container iframe {
+    height: 350px;
+  }
 }
