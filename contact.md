@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Contact"
+description: "Contact information for Lafayette FCCLA."
 ---
 
 <div class="banner">

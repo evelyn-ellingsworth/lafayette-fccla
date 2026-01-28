@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Digital Stories for Change"
+description: "Digital Stories for Change submission from Lafayette FCCLA."
 ---
 
 <div class="banner">

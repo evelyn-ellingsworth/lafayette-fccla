@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Family and Consumer Sciences"
+description: "Learn about Family and Consumer Sciences at Lafayette High School."
 ---
 
 <div class="banner">
@@ -61,11 +63,11 @@ layout: default
 
     <div class="button-group">
 
-      <a href="https://www.uky.edu/" class="action-btn">University of Kentucky</a>
-      <a href="https://louisville.edu/" class="action-btn">University of Louisville</a>
-      <a href="https://www.murraystate.edu/" class="action-btn">Murray State University</a>
-      <a href="https://www.eku.edu/" class="action-btn">Eastern Kentucky University</a>
-      <a href="https://www.wku.edu/" class="action-btn">Western Kentucky University</a>
+      <a href="https://www.uky.edu/" class="action-btn" target= "_blank">University of Kentucky</a>
+      <a href="https://louisville.edu/" class="action-btn" target= "_blank">University of Louisville</a>
+      <a href="https://www.murraystate.edu/" class="action-btn" target= "_blank">Murray State University</a>
+      <a href="https://www.eku.edu/" class="action-btn" target= "_blank">Eastern Kentucky University</a>
+      <a href="https://www.wku.edu/" class="action-btn" target= "_blank">Western Kentucky University</a>
 
     </div>
   </div>

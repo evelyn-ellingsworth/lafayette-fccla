@@ -23,11 +23,11 @@
 }
 
 .banner h1 {
-  color:black;
+  color:rgb(255, 255, 255);
   font-size: xx-large;
   font-weight: bold;
   text-align: center;
-  -webkit-text-stroke: white 0.2px;
+  -webkit-text-stroke: rgb(0, 0, 0) 0.6px;
 }
 .home-banner {
   width: 100%;
@@ -1113,6 +1113,12 @@ details.nested {
   border: 0;
 }
 
+.canva {
+    padding-bottom: 20px;
+}
+.canva a{
+  text-decoration: underline;
+}
 
 /* -------- MOBILE -------- */
 @media (max-width: 768px) {
@@ -1123,6 +1129,9 @@ details.nested {
   .button {
     justify-self: center; /* or center if you prefer */
   }
+}
+.fcs-slideshow a{
+  text-decoration: underline;
 }
 
 .beyond-hs-header{

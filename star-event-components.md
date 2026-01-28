@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "STAR Event Components"
+description: "Required documents for the STAR Event FCCLA Chapter Website."
 ---
 
 <div class="banner">

@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Membership"
+description: "Learn about membership requirements and benefits for Lafayette FCCLA."
 ---
 
 <div class="banner">

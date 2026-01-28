@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Lafayette FCCLA Home Page"
+description: "Learn about FCCLA at Lafayette Senior High School."
 ---
 
 <div class="home-banner">

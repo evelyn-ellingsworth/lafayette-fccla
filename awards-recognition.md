@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Awards and Recognition"
+description: "Awards earn by members of Lafayette FCCLA."
 ---
 
 <div class="banner">

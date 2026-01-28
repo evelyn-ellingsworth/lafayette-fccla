@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Supporter Recognition"
+description: "Learn about our chapters supporters."
 ---
 <div class="banner">
   <h1>Chapter Supporter Recognition</h1>
