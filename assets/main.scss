@@ -1240,7 +1240,7 @@ details.nested {
   font-weight: bold;
   text-align: center;
 }
-
+/*
 .pdf-container{
   padding-top: 20px;
   padding-bottom: 20px;
@@ -1250,4 +1250,18 @@ details.nested {
   .pdf-container iframe {
     height: 350px;
   }
+}
+*/
+
+.pdf-container {
+  width: 100%;
+  max-width: 900px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  //aspect-ratio: 8.5 / 11; /* keeps PDF proportions */
+}
+
+.pdf-container iframe {
+  width: 100%;
+  border: none;
 }

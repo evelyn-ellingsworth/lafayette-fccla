@@ -24,7 +24,6 @@ description: "Required documents for the STAR Event FCCLA Chapter Website."
         </object>
     </div>
     </div>
-
     <div class="pdf-container">
     <div class ="components-title">
         <h2>FCCLA Planning Process Summary Page</h2>
@@ -40,7 +39,6 @@ description: "Required documents for the STAR Event FCCLA Chapter Website."
         </object>
     </div>
     </div>
-
     <div class="pdf-container">
     <div class ="components-title">
         <h2>Evidence of Online Summary Form Submission</h2>
@@ -56,7 +54,6 @@ description: "Required documents for the STAR Event FCCLA Chapter Website."
       <!--  </object> -->
     </div>
     </div>
-
     <div class="pdf-container">
     <div class ="components-title">
         <h2>Works Cited</h2>
