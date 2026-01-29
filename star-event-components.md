@@ -62,11 +62,11 @@ description: "Required documents for the STAR Event FCCLA Chapter Website."
         <h2>Works Cited</h2>
     </div>
     <div class="component-pdf">
-        <object data="https://drive.google.com/file/d/1d8Gs1Vu8E1PiFsVbhYp5Fu0jyTGROm00/preview" type="application/pdf" width="100%" height="500px">
+        <object data="https://drive.google.com/file/d/1Bzp3_azL6VC3fLYNQHD9EntRc4kPFQgM/preview" type="application/pdf" width="100%" height="500px">
             <iframe src="example.pdf" width="640" height="480">
             <p>
             This browser does not support PDF viewing.
-            <a href="https://drive.google.com/file/d/1d8Gs1Vu8E1PiFsVbhYp5Fu0jyTGROm00/preview">Download the PDF</a>.
+            <a href="https://drive.google.com/file/d/1Bzp3_azL6VC3fLYNQHD9EntRc4kPFQgM/preview">Download the PDF</a>.
             </p>
             </iframe>
         </object>
