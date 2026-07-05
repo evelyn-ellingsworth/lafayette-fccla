@@ -12,7 +12,7 @@ description: "Digital Stories for Change submission from Lafayette FCCLA."
   <div class="video-wrapper">
     <iframe 
       width="560" height="315" 
-      src="https://www.youtube.com/embed/R6bK1DqPbyo?si=7zy9by5PmL8S35do" title="YouTube video player" 
+      src="https://www.youtube.com/embed/TvRrcmbdoe8?si=ih0TbzxrPBHcGKgo" title="YouTube video player" 
       frameborder="0" 
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
       allowfullscreen>
