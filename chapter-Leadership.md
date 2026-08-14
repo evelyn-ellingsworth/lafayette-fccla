@@ -18,7 +18,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
     <figure class="image-item-2">
       <div class="text-content">
         <h2>President</h2>
-        <h3>Evelyn Ellingsworth</h3>
+        <h3>May Dinh</h3>
         <p>
           The job of President is to lead chapter and officer meetings,
           coordinate with advisors and school administration, and plan
@@ -27,7 +27,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         <p>Evelyn has been a member of FCCLA for five years and has competed in STAR Events every year. She has competed on the National level all five years and won first in the nation for the Technology in Teaching Skills Competion in 2024. She hopes to become a robotics engineer and help people through the application of technology.
         </p>
         </div>
-        <img src="{{site.baseurl}}/assets/images/evie.png"
+        <img src="{{site.baseurl}}/assets/images/"
           alt="Picture of Chapter President"
           class="image-size-1">
     </figure>
@@ -44,8 +44,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         </p>
         <p>Lane has been a member of FCCLA for three years and previously held the office of President. She has competed in STAR Events for the last two year, placing first at regionals and state conference both years and fifth at the National Leadership Conference in her seventh grade year.</p>
       </div>
-
-      <img src="{{site.baseurl}}/assets/images/lane.png"
+      <img src="{{site.baseurl}}/assets/images/"
           alt="Picture of Chapter First Vice President"
           class="image-size-1">
     </figure>
@@ -63,8 +62,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         </p>
         <p>Marisa has been a member of FCCLA for five years and is our former Vice President of Public Relations. She has placed top three twice at the National Leadership Conference, getting first place for Technology in Teaching and third for Impromptu Speaking. She's hoping to become a certified nursing assistant before eventually becoming a registered nurse.</p>
       </div>
-
-          <img src="{{site.baseurl}}/assets/images/marisa.png"
+          <img src="{{site.baseurl}}/assets/images/"
           alt="Picture of Chapter Vice President of Community Service"
           class="image-size-1">
     </figure>
@@ -82,8 +80,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         </p>
         <p>Ellie has been a member of FCCLA for two years and has competed in STAR Events both years. Last year she won first at both Regional and State Conference. She is an active part of all fundraisers and community service projects and hopes to find a career that enhances the leadership skills that she has learn from FCCLA.</p>
       </div>
-
-          <img src="{{site.baseurl}}/assets/images/ellie.png"
+          <img src="{{site.baseurl}}/assets/images/"
           alt="Picture of Chapter Vice President of Membership"
           class="image-size-1">
     </figure>
@@ -101,8 +98,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         </p>
         <p>Eva has been in FCCLA for three years and previously held the office of First Vice President. She now holds the title of Vice President of Membership along with Ellie Murphy. Last year, she won first in the state for her STAR Event.</p>
       </div>
-
-        <img src="{{site.baseurl}}/assets/images/eva.png"
+        <img src="{{site.baseurl}}/assets/images/"
           alt="Picture of Chapter Vice President of Membership"
           class="image-size-1">
     </figure>
@@ -120,8 +116,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         </p>
         <p>May has been a member of FCCLA for three years has competed in STAR Events for the last two years. She has won first at regionals and place top two at state both years. Last year she placed fourth in the nation in Career Investigations. May hopes to get her doctorate and pursue a career as an orthodontist. </p>
       </div>
-
-          <img src="{{site.baseurl}}/assets/images/may.png"
+          <img src="{{site.baseurl}}/assets/images/"
           alt="Picture of Chapter Vice President of Public Relations"
           class="image-size-1">
     </figure>
@@ -132,14 +127,13 @@ description: "Learn about the current officers for Lafayette FCCLA."
     <figure class="image-item-2">
       <div class="text-content">
         <h2>Vice President of Competitive Events</h2>
-        <h3>DeLeigha Cummins</h3>
+        <h3>Evelyn Ellingsworth</h3>
         <p>
           The job of Vice President of Competitive Events is to support members competing in competitive events.
         </p>
-        <p>DeLeigha has been a member of FCCLA for six years and has placed first in the nation three times for STAR Events. She hopes to attend Harvard University and have a career in law.</p>
+        <p>Evelyn has been a member of FCCLA for six years and has competed in STAR Events every year. She has competed at the National Leadership Conference five times and won first in the nation for the Technology in Teaching Skills Competition in 2024. She hopes to become a robotics engineer and help people through the application of technology.</p>
       </div>
-
-          <img src="{{site.baseurl}}/assets/images/deleigha.png"
+          <img src="{{site.baseurl}}/assets/images/"
           alt="Picture of Chapter Vice President of Competitive Events"
           class="image-size-1">
     </figure>
