@@ -10,7 +10,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
 
 <div class="wrapper">
   <div class="officer-overview">
-      <h3>For the 2025-2026 school year, we have seven officers that, with the help of our advisors, run the Lafayette Senior High School FCCLA Chapter.</h3>
+      <h3>For the 2026-2027 school year, we have eight officers that, with the help of our advisors, run the Lafayette Senior High School FCCLA Chapter.</h3>
   </div> 
 
   <!--president-->
