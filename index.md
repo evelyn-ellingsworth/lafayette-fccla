@@ -11,6 +11,15 @@ description: "Learn about FCCLA at Lafayette Senior High School."
   var siteBaseUrl = "{{ site.baseurl }}";
 </script>
 <script src ="/scripts/facts.js"> </script>
+<script src = "/scripts/popup.js"></script>
+
+<div class="popup">
+    <div class="popup-content">
+        <h2>Hello!</h2>
+        <p>This website is a part of a STAR Event and is currently being updated for the new school year. Please be aware that some content may be unavaible or incorrect at times. Thank you for your patience.</p>
+        <button onclick="closePopup()">Close</button>
+    </div>
+</div>
 
 
 
