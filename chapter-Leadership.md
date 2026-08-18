@@ -44,7 +44,6 @@ description: "Learn about the current officers for Lafayette FCCLA."
         </p>
         <p>Marisa has been a member of FCCLA for six years and is our former Vice President of Public Relations (2024-2025) and Vice President of Community Service (2025-2026). She has placed in the top three twice at the National Leadership Conference, getting first place for Technology in Teaching and third for Impromptu Speaking. She also placed top 10 at the National Leadership Conference, competing in the Leadership competition. She's hoping to become a certified nursing assistant before eventually becoming a registered nurse.</p>
       </div>
-
       <img src="{{site.baseurl}}/assets/images/"
           alt="Picture of Chapter First Vice President"
           class="image-size-1">
