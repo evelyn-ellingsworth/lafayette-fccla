@@ -60,7 +60,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         <p>
           The job of Vice President of Community Service is to coordinate community service events for the chapter. They will lead a committee assigned to assists with community service projects. 
         </p>
-        <p>Lane has been a member of FCCLA for three years and previously held the office of President. She has competed in STAR Events for the last two years, placing first at regionals and state conference both years and fifth at the National Leadership Conference in her seventh grade year.</p>
+        <p>Lane has been a member of FCCLA for four years and previously held the office of Vice President at the Lafayette FCCLA Chapter. She has competed in STAR Events for the three years, placing fifth at nationals in seventh grade and second at state in ninth grade. Lane hopes to become a lawyer after studying anthropology.</p>
       </div>
 
           <img src="{{site.baseurl}}/assets/images/"
@@ -79,7 +79,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         <p>
           The job of Vice President of Membership is to create and run programs to increase membership and retain and recognize current members. This includes: leading recruitment campaigns and activities, welcome new members of the chapter, promote FCCLA in class, and updating the FCCLA Bulletin Board. The Vice President of Membership is also responsible for tracking member attendance and recognizing committed members.
         </p>
-        <p></p>
+        <p>Eve has been an active member of FCCLA for one year. This year Eve is Vice President of Membership. She was a member last year that competed in her first STAR Events and competed in regionals. She placed second with Sports Nutrition. As Vice President of Membership she helps welcome new members and encourage current members to spread awareness of FCCLA. She has her Board of Membership that members join to be more active in this great opportunity.</p>
       </div>
 
         <img src="{{site.baseurl}}/assets/images/"
@@ -151,7 +151,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         <p>
           The job of Vice President of Competitive Events is to develop fundraising goals, plan fundraising events for the chapter, and coordinate logistics, promotions, and volunteer schedules. They will assist with monitoring the chapter budget and provide financial updates during meetings. 
         </p>
-        <p>Lily has been an active member of FCCLA for four years. She is currently the Vice President of Finance but is also former Co-vice President of Community service (2024-2025). She participated in and planned multiple community service and fundraising projects. She has completed a Power of One, Junior Degree, and last year, she competed in her first STAR Event at regional competition and placed in the top three.</p>
+        <p>Lily has been an active member of FCCLA for four years. She is currently the Vice President of Finance but is also former Co-vice President of Community service (2024-2025). She participated in and planned multiple community service and fundraising projects. She has completed a Power of One, Junior Degree, and last year, she competed in her first STAR Event at regional competition and placed in the top three. Following graduation, she hopes to pursue a career and further education in marketing and fashion.</p>
       </div>
 
           <img src="{{site.baseurl}}/assets/images/"
