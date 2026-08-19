@@ -36,7 +36,7 @@ description: "Learn about membership requirements and benefits for Lafayette FCC
       <div class="text-content-2">
         <h3>How To Join </h3>
         <p>Anyone at Lafayette who has taken or is taking a Family and Consumer Sciences class is eligible to join Lafayette Senior High School FCCLA.
-          To join, you should attend the first meeting of the school year. The exact date would be announced a week in advance on the social media pages, over the school announcements, and can be found on the activities calendar on our website.  
+          To join, you should attend the first meeting of the school year. The exact date would be announced a week in advance on the social media pages, over the school announcements, and can be found on the <a href = "{{site.baseurl}}/activities" target= "_blank">activities calendar</a> on our website.  
           Dues are 30 dollars and are due on September 24 for the 2026-2027 school year. They cover regional, state, and national registration fees as well as supplies for activities during chapter meetings.
         </p>
       </div>
@@ -111,3 +111,5 @@ description: "Learn about membership requirements and benefits for Lafayette FCC
       </div>
   </div>
 </div>
+
+
