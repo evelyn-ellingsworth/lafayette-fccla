@@ -27,7 +27,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         <p>May has been a member of FCCLA and STAR Event competitor for five years. She has won 1st at Regionals and State, while qualifying as a National Finalist over the past competition seasons. Last year, she placed 2nd in the nation in the STAR Event: Digital Stories for Change. May hopes to earn her Doctorate and pursue a career as an orthodontist. 
         </p>
         </div>
-        <img src="{{site.baseurl}}/assets/images/may.png"
+        <img src="{{site.baseurl}}/assets/images/"
           alt="Picture of Chapter President"
           class="image-size-1">
     </figure>
@@ -44,7 +44,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         </p>
         <p>Marisa has been a member of FCCLA for six years and is our former Vice President of Public Relations (2024-2025) and Vice President of Community Service (2025-2026). She has placed in the top three twice at the National Leadership Conference, getting first place for Technology in Teaching and third for Impromptu Speaking. She also placed top 10 at the National Leadership Conference, competing in the Leadership competition. She's hoping to become a certified nursing assistant before eventually becoming a registered nurse.</p>
       </div>
-      <img src="{{site.baseurl}}/assets/images/marisa.png"
+      <img src="{{site.baseurl}}/assets/images/g"
           alt="Picture of Chapter First Vice President"
           class="image-size-1">
     </figure>
