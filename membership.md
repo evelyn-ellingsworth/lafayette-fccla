@@ -27,7 +27,7 @@ description: "Learn about membership requirements and benefits for Lafayette FCC
       <div class="text-content-2">
         <h3>Meetings </h3>
         <p>
-          We have full chapter meetings on the last Wednesday or Thursday of every month. Attendance is not required but it is suggested. If you are a STAR Events competitor, then there are required meetings on Wednesday and Thursday mornings every week. You are only required to go to one a week.
+          We have full chapter meetings on the last Thursday of school every month. Attendance is not required but it is suggested. If you are a STAR Events competitor, then there are required meetings on Wednesday and Thursday mornings every week. You are only required to go to one a week.
         </p>
       </div>
   </div>
@@ -35,9 +35,9 @@ description: "Learn about membership requirements and benefits for Lafayette FCC
   <div class="join-overview">
       <div class="text-content-2">
         <h3>How To Join </h3>
-        <p>Anyone at Lafayette who has taken or is taking a Family and   Consumer Sciences class is eligible to join Lafayette Senior High School FCCLA.
-          To join, you should attend the first meeting of the school year which is normally in September. The exact date would be announced a week in advance on the social media pages and over the school annoucements.  
-          Dues are 30 dollars and are due on October 31. They cover regional, state, and national registration fees as well as supplies for activities during chapter meetings.
+        <p>Anyone at Lafayette who has taken or is taking a Family and Consumer Sciences class is eligible to join Lafayette Senior High School FCCLA.
+          To join, you should attend the first meeting of the school year. The exact date would be announced a week in advance on the social media pages, over the school announcements, and can be found on the activities calendar on our website.  
+          Dues are 30 dollars and are due on September 24 for the 2026-2027 school year. They cover regional, state, and national registration fees as well as supplies for activities during chapter meetings.
         </p>
       </div>
   </div>
