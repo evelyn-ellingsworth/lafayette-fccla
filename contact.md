@@ -11,6 +11,7 @@ description: "Contact information for Lafayette FCCLA."
 <div class="wrapper">
   <div class= "overall-contact-section">
     <h3>Have any questions? Contact us to learn more!</h3>
+    <p>For questions about joining our chapter, conference details, or STAR Events please reach out to our advisors. For questions about committees please reach out to your committee head through GroupMe.</p>
   </div>
 
   <div class = "advisor-email-section">
