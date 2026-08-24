@@ -8,5 +8,5 @@ Some common one are:
 - h3
 - p
 
-h1, h2, and h3 are all different sized headings. p is probably going to be the most important tag. To change the text of different pages, simply change the text between the <p> tags.
+h1, h2, and h3 are all different sized headings. p is probably going to be the most important tag. To change the text of different pages, simply change the text between the tags.
 
