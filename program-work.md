@@ -22,7 +22,7 @@ description: "Learn about the Lafayette FCCLA's program of work."
 
 
   <div class ="pdf-container">
-    <iframe src="" width="640" height="480">
+    <iframe src="https://drive.google.com/file/d/1Rsk3EZsnZ0Vzfp5LPTyobaQfoKOyuVj3/preview" width="640" height="480">
       <p>
         This browser does not support PDF viewing.
         <a href="">Download the PDF</a>.
