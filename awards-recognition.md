@@ -10,15 +10,15 @@ description: "Awards earn by members of Lafayette FCCLA."
 
 <div class="wrapper">
   <div class= "overall-awards-description">
-      <h3>From STAR Events, to Skills Competitions, to Individual Programs, chapter members have created amazing projects and shown their skills on a regional, state, and national level. 
-      </h3>
+      <h3>From STAR Events, to Skills Competitions, to Individual Programs, chapter members have created amazing projects and shown their skills on a regional, state, and national level. </h3>
   </div>
   
 
   <div class="image-container-3">
     <figure class="image-item-3">
-      <div class="text-content-1">
+      <div class="text-content">
         <h2>Who We Are</h2>
+        <h3>Competitor Name</h3>
         <p>
           seeing if it breaks
         </p>
