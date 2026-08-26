@@ -4,11 +4,11 @@ async function loadJSON() {
     const response = await fetch("/scripts/event-titles.json");
     const facts = await response.json();
     var num = 0;
-    document.getElementById("event-text").textContent = facts.data[num];
+    document.getElementById("event-text").textContent = event-titles.data[num];
 
     setInterval(() => {
         num++;
-        document.getElementById("fact-text").textContent = facts.data[num];
+        document.getElementById("fact-text").textContent = event-titles.data[num];
     }, 7500); // 10,000 ms = 10 seconds
 
   } catch (error) {
