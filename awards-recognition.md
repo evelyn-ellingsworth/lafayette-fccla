@@ -19,8 +19,8 @@ description: "Awards earn by members of Lafayette FCCLA."
 
   <div class="image-container-3">
     <figure class="image-item-3">
-      <div class="text-content">
-        <h2 id="event-text">hi</h2>
+      <div class="rotate-section">
+        <h2 id="event-text"></h2>
         <h3>Competitor Name</h3>
         <p>
           seeing if it breaks
