@@ -13,13 +13,13 @@ description: "Awards earn by members of Lafayette FCCLA."
       <h3>From STAR Events, to Skills Competitions, to Individual Programs, chapter members have created amazing projects and shown their skills on a regional, state, and national level. </h3>
   </div>
 
-<script src ="/scripts/star.js"> </script>
+<script src ="/scripts/facts.js"> </script>
 
 
   <div class="image-container-3">
     <figure class="image-item-3">
       <div class="text-content">
-        <h2 id = "event-text" ></h2>
+        <h3 id="fact-text"></h3>
         <h3>Competitor Name</h3>
         <p>
           seeing if it breaks
