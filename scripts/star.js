@@ -4,7 +4,7 @@ async function loadJSON() {
     const response = await fetch("/scripts/event-titles.json");
     const facts = await response.json();
     var num = Math.floor(Math.random() * event-titles.data.length);
-    document.getElementById("fact-text").textContent = event-titles.data[num];
+    document.getElementById("event-text").textContent = event-titles.data[num];
 
     setInterval(() => {
         num = Math.floor(Math.random() * event-titles.data.length);
