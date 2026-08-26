@@ -12,7 +12,9 @@ description: "Awards earn by members of Lafayette FCCLA."
   <div class= "overall-awards-description">
       <h3>From STAR Events, to Skills Competitions, to Individual Programs, chapter members have created amazing projects and shown their skills on a regional, state, and national level. </h3>
   </div>
-  
+
+<script src ="/scripts/star.js"> </script>
+
 
   <div class="image-container-3">
     <figure class="image-item-3">
