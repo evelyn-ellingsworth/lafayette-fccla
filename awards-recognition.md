@@ -20,7 +20,7 @@ description: "Awards earn by members of Lafayette FCCLA."
   <div class="image-container-3">
     <figure class="image-item-3">
       <div class="text-content">
-        <h3 id="event-text"></h3>
+        <h2 id="event-text">hi</h2>
         <h3>Competitor Name</h3>
         <p>
           seeing if it breaks
