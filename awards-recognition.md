@@ -14,23 +14,22 @@ description: "Awards earn by members of Lafayette FCCLA."
       </h3>
   </div>
   
+
   <div class="image-container-3">
     <figure class="image-item-3">
       <div class="text-content-1">
-        <h2>Name of Event</h2>
-        <h3>Name of Competitor<h3>
+        <h2>Who We Are</h2>
         <p>
-          Description of event, project, and score/placement.
+          Family, Community, and Career Leaders of America (FCCLA) is a nation-wide Career and Technical Student Organization for students interested in Family and Consumer Science (FCS). Through FCCLA, students are able to develop skills that will aid them in their personal and professional life. Founded in 1945, members have been making a difference in their schools and community through community service and Family and Consumer Science education. 
         </p>
       </div>
       <div class ="right-aligned-image-content">
-      <img src="{{site.baseurl}}/assets/images/"
+      <img src="{{site.baseurl}}/assets/images/nat-pic.png"
           alt="Picture of FCCLA"
           class="image-size-1">
       </div>
     </figure>
   </div>
-
 
   <div class="three-section-layout">
     <!-- Section 1 -->
