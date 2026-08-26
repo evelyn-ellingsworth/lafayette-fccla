@@ -14,22 +14,20 @@ description: "Awards earn by members of Lafayette FCCLA."
       </h3>
   </div>
   
-    <div class="image-container-2">
-    <figure class="image-item-2">
-    <img src="{{site.baseurl}}/assets/images/testing.png"
-          alt="Picture of Chapter President"
-          class="image-size-1">
-      <div class="text-content">
-        <h2>President</h2>
-        <h3>May Dinh</h3>
+  <div class="image-container-3">
+    <figure class="image-item-3">
+      <div class="text-content-1">
+        <h2>Name of Event</h2>
+        <h3>Name of Competitor<h3>
         <p>
-          The job of President is to lead chapter and officer meetings,
-          coordinate with advisors and school administration, and plan
-          meeting dates. The President is responsible for all agendas and keeping chapter calendar up to date. With the help of the officers and advisors they will create a Program of Work to outline the chapter's year.
+          Description of event, project, and score/placement.
         </p>
-        <p>May has been a member of FCCLA and STAR Event competitor for five years. She has won 1st at Regionals and State, while qualifying as a National Finalist over the past competition seasons. Last year, she placed 2nd in the nation in the STAR Event: Digital Stories for Change. May hopes to earn her Doctorate and pursue a career as an orthodontist. 
-        </p>
-        </div>
+      </div>
+      <div class ="right-aligned-image-content">
+      <img src="{{site.baseurl}}/assets/images/testing.png"
+          alt="Picture of FCCLA"
+          class="image-size-1">
+      </div>
     </figure>
   </div>
 
