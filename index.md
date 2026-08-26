@@ -40,7 +40,6 @@ description: "Learn about FCCLA at Lafayette Senior High School."
       </div>
     </figure>
   </div>
-    
      <div class ="rotate-section">
         <h2>Did You Know?</h2>
         <h3 id="fact-text"></h3>
