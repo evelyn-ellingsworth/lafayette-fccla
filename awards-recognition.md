@@ -19,7 +19,7 @@ description: "Awards earn by members of Lafayette FCCLA."
 
   <div class="image-container-3">
     <figure class="image-item-3">
-      <div class="rotate-section">
+      <div class="text-content">
         <h2 id="event-text"></h2>
         <h3>Competitor Name</h3>
         <p>
