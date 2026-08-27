@@ -82,7 +82,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         <p>Eve has been an active member of FCCLA for one year. This year Eve is Vice President of Membership. She was a member last year that competed in her first STAR Events and competed in regionals. She placed second with Sports Nutrition. As Vice President of Membership she helps welcome new members and encourage current members to spread awareness of FCCLA. She has her Board of Membership that members join to be more active in this great opportunity.</p>
       </div>
 
-        <img src="{{site.baseurl}}/assets/images/"
+        <img src="{{site.baseurl}}/assets/images/eve.png"
           alt="Picture of Chapter Vice President of Membership"
           class="image-size-1">
     </figure>
@@ -154,7 +154,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         <p>Lily has been an active member of FCCLA for four years. She is currently the Vice President of Finance but is also former Co-vice President of Community service (2024-2025). She participated in and planned multiple community service and fundraising projects. She has completed a Power of One, Junior Degree, and last year, she competed in her first STAR Event at regional competition and placed in the top three. Following graduation, she hopes to pursue a career and further education in marketing and fashion.</p>
       </div>
 
-          <img src="{{site.baseurl}}/assets/images/"
+          <img src="{{site.baseurl}}/assets/images/lily.png"
           alt="Picture of Chapter Vice President of Finance"
           class="image-size-1">
     </figure>
