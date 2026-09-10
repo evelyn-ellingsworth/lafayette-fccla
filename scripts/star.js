@@ -3,11 +3,13 @@ async function loadJSON() {
   try {
     const response = await fetch("/scripts/eventTitles.json");
     const eventTitles = await response.json();
-    var num = Math.floor(Math.random() * eventTitles.data.length);
+    var num = 0;
+       //Math.floor(Math.random() * eventTitles.data.length);
     document.getElementById("event-text").textContent = eventTitles.data[num];
 
     setInterval(() => {
-      num = Math.floor(Math.random() * eventTitles.data.length);
+      num = (num +1) % eventTitle.data.length;
+      // num = Math.floor(Math.random() * eventTitles.data.length);
         document.getElementById("event-text").textContent = eventTitles.data[num];
     }, 7500); // 10,000 ms = 10 seconds
 
