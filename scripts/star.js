@@ -7,7 +7,7 @@ async function loadJSON() {
     document.getElementById("event-text").textContent = eventTitles.data[num];
 
     setInterval(() => {
-       if(num>eventTitles.data.length){
+       if(num=eventTitles.data.length){
           num=0;
        }
        else{
