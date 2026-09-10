@@ -8,7 +8,7 @@ async function loadJSON() {
     document.getElementById("event-text").textContent = eventTitles.data[num];
 
     setInterval(() => {
-      num = (num +1);
+      num = num +1;
       // num = Math.floor(Math.random() * eventTitles.data.length);
         document.getElementById("event-text").textContent = eventTitles.data[num];
     }, 7500); // 10,000 ms = 10 seconds
