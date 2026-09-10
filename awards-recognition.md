@@ -14,7 +14,7 @@ description: "Awards earn by members of Lafayette FCCLA."
   </div>
 
 
-<script src ="/scripts/facts.js"> </script>
+<script src ="/scripts/star.js"> </script>
 
 
   <div class="image-container-3">
