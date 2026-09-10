@@ -2,7 +2,7 @@ async function loadJSON() {
    // alert (siteBaseUrl);
   try {
     const response = await fetch("/scripts/eventTitles.json");
-    const facts = await response.json();
+    const eventTitles = await response.json();
     var num = Math.floor(Math.random() * eventTitles.data.length);
     document.getElementById("event-text").textContent = eventTitles.data[num];
 
