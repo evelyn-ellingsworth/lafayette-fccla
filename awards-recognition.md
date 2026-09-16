@@ -20,7 +20,8 @@ description: "Awards earn by members of Lafayette FCCLA."
   <div class="image-container-3">
     <figure class="image-item-3">
       <div class="text-content">
-        <h2 id="event-text"></h2>
+        <h1 id="event-text"></h1>
+        <h2 id="title-text"></h2>
         <h3 id="name-text"></h3>
         <p id="event-description"></p>
       </div>
