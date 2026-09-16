@@ -26,7 +26,7 @@ description: "Awards earn by members of Lafayette FCCLA."
       </div>
       <div class ="right-aligned-image-content">
       <img id="competition-pic"
-          src=""
+          src="{{site.baseurl}}"
           alt="Picture of FCCLA"
           class="image-size-1">
       </div>
