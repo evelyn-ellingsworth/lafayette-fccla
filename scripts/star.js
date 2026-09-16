@@ -8,6 +8,7 @@ async function loadJSON() {
     let currentIndex = 0;
     
     document.getElementById("event-text").textContent = events.data[currentIndex].title;
+    document.getElementById("title-text").textContent = events.data[currentIndex].project-name;
     document.getElementById("name-text").textContent = events.data[currentIndex].author;
     document.getElementById("event-description").textContent = events.data[currentIndex].description;
    document.getElementById("competition-pic").setAttribute("src",events.data[currentIndex].image); 
@@ -15,6 +16,7 @@ async function loadJSON() {
        currentIndex = (currentIndex +1) % events.data.length;
      
         document.getElementById("event-text").textContent = events.data[currentIndex].title;
+        document.getElementById("title-text").textContent = events.data[currentIndex].project-name;
         document.getElementById("name-text").textContent = events.data[currentIndex].author;
         document.getElementById("event-description").textContent = events.data[currentIndex].description;
         document.getElementById("competition-pic").setAttribute("src",events.data[currentIndex].image); 
