@@ -2,20 +2,30 @@
     "data":[
         {
             "title": "Repurpose and Redesign",
+            "project-name":"Kind Kuddles",
             "author": "Lane O'Bryan",
-            "description":"Description of event",
+            "description":"I created a teddy bear out of old t-shirts and filled it with plastic bags. Then, I explained the importance of reusing these materials.",
             "image": "./assets/images/kindKuddles.jpg"
         },
         {
             "title": "Event Management",
+            "project-name":"Hearts For Healing",
             "author": "Sydney McGill and Josie Zegafuse",
             "description":"Hearts for Healing was a fundraising event to raise money for the Children's Advocacy Center of the Bluegrass. We planned auctions and activites to engage all people.",
             "image": "./assets/images/heartsForHealing.jpg"
         },
         {
             "title": "Focus on Children",
+            "project-name":"\"My Feelings, My Words\" was a project to teach kids, born in the pandemic, about sharing and communication with others through activites and books.",
             "author": "Lillian Bischoff and Giuliana Bethel",
-            "description":"Description of event",
+            "description":"My Feelings, My Words",
+            "image": "./assets/images/myFeelingsMyWords.jpeg"
+        }
+        {
+            "title": "Digital Stories For Change",
+            "project-name":"Mind Over Media: Reclaiming Mental Wellness Beyond the Screen",
+            "author": "May Dinh",
+            "description":"Created a digital story about the impact of social media and technology usage on mental health withn adolescence, advocating for positive change to avoid detrimental impacts on their personal development. The digital story was broadcasted across different middle schools within the school district and left a significant impact on the young community who had seen the film.",
             "image": "./assets/images/myFeelingsMyWords.jpeg"
         }
 
