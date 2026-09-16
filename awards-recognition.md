@@ -21,13 +21,12 @@ description: "Awards earn by members of Lafayette FCCLA."
     <figure class="image-item-3">
       <div class="text-content">
         <h2 id="event-text"></h2>
-        <h3>Competitor Name</h3>
-        <p>
-          seeing if it breaks
-        </p>
+        <h3 id="name-text"></h3>
+        <p id="event-description"></p>
       </div>
       <div class ="right-aligned-image-content">
-      <img src="{{site.baseurl}}/assets/images/testing.png"
+      <img id="competition-pic"
+          src=""
           alt="Picture of FCCLA"
           class="image-size-1">
       </div>

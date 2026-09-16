@@ -1,0 +1,23 @@
+{
+    "data":[
+        {
+            "title": "Repurpose and Redesign",
+            "author": "Lane O'Bryan",
+            "description":"Description of event",
+            "image": "{{site.baseurl}}/assets/images/kindKuddles.jpg"
+        },
+        {
+            "title": "Event Management",
+            "author": "Sydney McGill and Josie Zegafuse",
+            "description":"Hearts for Healing was a fundraising event to raise money for the Children's Advocacy Center of the Bluegrass. We planned auctions and activites to engage all people.",
+            "image": "{{site.baseurl}}/assets/images/heartsForHealing.jpg"
+        },
+        {
+            "title": "Focus on Children",
+            "author": "Lillian Bischoff and Giuliana Bethel",
+            "description":"Description of event",
+            "image": "{{site.baseurl}}/assets/images/myFeelingsMyWords.jpeg"
+        }
+
+    ]
+}

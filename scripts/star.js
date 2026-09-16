@@ -1,18 +1,24 @@
 async function loadJSON() { 
-   // alert (siteBaseUrl);
-  try {
-    const response = await fetch("/scripts/eventTitles.json");
-    const eventTitles = await response.json();
-     let currentIndex = 0;
-    //var num = 0;
-       //Math.floor(Math.random() * eventTitles.data.length);
-    document.getElementById("event-text").textContent = eventTitles.data[currentIndex];
 
+  try {
+    const response = await fetch("/scripts/events.json");
+    
+    const events = await response.json();
+   
+    let currentIndex = 0;
+    
+    document.getElementById("event-text").textContent = events.data[currentIndex].title;
+    document.getElementById("name-text").textContent = events.data[currentIndex].author;
+    document.getElementById("event-description").textContent = events.data[currentIndex].description;
+   document.getElementById("competition-pic").setAttribute("src",events.data[currentIndex].image); 
     setInterval(() => {
-       currentIndex = (currentIndex +1) % eventTitles.data.length;
-      //num = num +1;
-      // num = Math.floor(Math.random() * eventTitles.data.length);
-        document.getElementById("event-text").textContent = eventTitles.data[currentIndex];
+       currentIndex = (currentIndex +1) % events.data.length;
+     
+        document.getElementById("event-text").textContent = events.data[currentIndex].title;
+        document.getElementById("name-text").textContent = events.data[currentIndex].author;
+        document.getElementById("event-description").textContent = events.data[currentIndex].description;
+        document.getElementById("competition-pic").setAttribute("src",events.data[currentIndex].image); 
+
     }, 7500); // 10,000 ms = 10 seconds
 
   } catch (error) {
@@ -22,3 +28,4 @@ async function loadJSON() {
 
 
 loadJSON();
+"event-description"

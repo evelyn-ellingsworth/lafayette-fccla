@@ -4,12 +4,12 @@
       url: /chapter-Leadership
     - title: Supporters
       url: /supporter-rec
-    - title: Awards and Recognition
-      url: /awards-recognition
     - title: Activities
       url: /activities
     - title: Program of Work
       url: /program-work
+    - title: STAR Events Project Components
+      url: /star-event-components
 
 - title: Join
   url: /membership
@@ -19,7 +19,7 @@
 
 - title: STAR Events
   children:
-    - title: STAR Events Project Components
-      url: /star-event-components
+    - title: Awards and Recognition
+      url: /awards-recognition
     - title: Digital Stories for Change
       url: /digital-stories
