@@ -22,6 +22,7 @@ description: "Learn about FCCLA at Lafayette Senior High School."
 </div>
 
 
+
 <div class="wrapper">
 
   <div class="image-container-3">
