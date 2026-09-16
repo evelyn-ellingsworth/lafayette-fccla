@@ -1,7 +1,7 @@
 async function loadJSON() { 
 
   try {
-    const response = await fetch("/scripts/events.json");
+    const response = await fetch("scripts/events.json");
     
     const events = await response.json();
    
@@ -30,4 +30,4 @@ async function loadJSON() {
 
 
 loadJSON();
-"events-discription"
+"event-discription"
