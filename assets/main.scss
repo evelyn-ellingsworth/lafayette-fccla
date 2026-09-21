@@ -44,7 +44,19 @@
   align-items: center;      /* vertical centering */
   justify-content: center;  /* horizontal centering */
 }
+.fcs-banner {
+  width: 100%;
+  min-height: 15vh;
 
+  background-image: url("{{site.baseurl}}/assets/images/banner.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  align-items: center;      /* vertical centering */
+  justify-content: center;  /* horizontal centering */
+}
 .banner h1 {
   color:rgb(255, 255, 255);
   font-size: xx-large;
@@ -53,10 +65,18 @@
   -webkit-text-stroke: rgb(0, 0, 0) 0.6px;
 }
 .home-banner {
+  //width: 100%;
+  //min-height: 18vh;
+  position: relative;
   width: 100%;
-  min-height: 18vh;
+  max-width: 100%;
+  aspect-ratio: 4 / 1; /* Set your banner's aspect ratio */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
 
-  background-image: url("{{site.baseurl}}/assets/images/banner-home.png");
+  background-image: url("{{site.baseurl}}/assets/images/banner-home-black.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

@@ -5,7 +5,7 @@ description: "Learn about FCCLA at Lafayette Senior High School."
 ---
 
 <div class="home-banner">
-  <h1>Lafayette Senior High School FCCLA</h1>
+  <h1></h1>
 </div>
 <script>
   var siteBaseUrl = "{{ site.baseurl }}";
