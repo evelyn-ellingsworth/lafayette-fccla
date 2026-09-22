@@ -52,7 +52,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-
+  
   display: flex;
   align-items: center;      /* vertical centering */
   justify-content: center;  /* horizontal centering */
@@ -60,7 +60,8 @@
 .overlay-image {
   width: 1920px;    
   min-height:15vh;
- 
+
+  padding-top:20px;
   display: flex;
   align-items: center;      
   justify-content: center; 
