@@ -44,11 +44,11 @@
   align-items: center;      /* vertical centering */
   justify-content: center;  /* horizontal centering */
 }
-.fcs-banner {
+.chapter-leadership-banner {
   width: 100%;
   min-height: 15vh;
 
-  background-image: url("{{site.baseurl}}/assets/images/banner.png");
+  background-image: url("{{site.baseurl}}/assets/images/stripeBackground.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -57,6 +57,17 @@
   align-items: center;      /* vertical centering */
   justify-content: center;  /* horizontal centering */
 }
+.overlay-image {
+  width: 100%;    
+  min-height: 15vh;
+  display: flex;
+  align-items: center;      
+  justify-content: center; 
+}
+
+
+
+
 .banner h1 {
   color:rgb(255, 255, 255);
   font-size: xx-large;
