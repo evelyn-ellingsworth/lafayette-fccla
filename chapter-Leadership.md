@@ -4,10 +4,17 @@ title: "Chapter Leadership"
 description: "Learn about the current officers for Lafayette FCCLA."
 ---
 
-<div class="banner">
+<!--<div class="banner">
   <h1>Chapter Leadership</h1>
 </div>
-
+-->
+<div class="chapter-leadership-banner">
+  <img src="{{site.baseurl}}/assets/images/chapterLeadershipClearBanner.png" 
+    alt = "testing"
+    class = "overlay-image"
+  >
+</div>
+  
 <div class="wrapper">
   <div class="officer-overview">
       <h3>For the 2025-2026 school year, we have nine officers that, with the help of our advisors, run the Lafayette Senior High School FCCLA Chapter.</h3>
