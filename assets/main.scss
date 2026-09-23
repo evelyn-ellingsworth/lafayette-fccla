@@ -44,7 +44,7 @@
   align-items: center;      /* vertical centering */
   justify-content: center;  /* horizontal centering */
 }
-.chapter-leadership-banner {
+.stripe-banner {
   width: 100%;
   min-height: 15vh;
 
@@ -58,13 +58,14 @@
   justify-content: center;  /* horizontal centering */
 }
 .overlay-image {
-  width: 1920px;    
-  min-height:15vh;
-
-  padding-top:20px;
+  width: 1920px;
+  min-height: 12vh;
+  padding-top: 20px;
   display: flex;
-  align-items: center;      
-  justify-content: center; 
+  align-items: center;
+  justify-content: center;
+  max-height: 35vh;
+  max-width: calc(800px - (30px * 2));
 }
 
 

@@ -4,9 +4,13 @@ title: "Lafayette FCCLA Home Page"
 description: "Learn about FCCLA at Lafayette Senior High School."
 ---
 
-<div class="home-banner">
-  <h1></h1>
+<div class="stripe-banner">
+  <img src="{{site.baseurl}}\assets\images\banner-home-black.png" 
+    alt = "testing"
+    class = "overlay-image"
+  >
 </div>
+  
 <script>
   var siteBaseUrl = "{{ site.baseurl }}";
 </script>

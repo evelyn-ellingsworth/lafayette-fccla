@@ -8,7 +8,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
   <h1>Chapter Leadership</h1>
 </div>
 -->
-<div class="chapter-leadership-banner">
+<div class="stripe-banner">
   <img src="{{site.baseurl}}/assets/images/chapterLeadershipClearBanner.png" 
     alt = "testing"
     class = "overlay-image"
