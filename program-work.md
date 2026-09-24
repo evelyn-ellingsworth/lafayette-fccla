@@ -3,8 +3,11 @@ layout: default
 title: "Program of Work"
 description: "Learn about the Lafayette FCCLA's program of work."
 ---
-<div class="banner">
-  <h1>Program of Work</h1>
+<div class="stripe-banner">
+  <img src="{{site.baseurl}}/assets/images/banner-overlay-images/powBanner.png" 
+    alt = "testing"
+    class = "overlay-image"
+  >
 </div>
 
 <div class="wrapper">

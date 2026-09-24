@@ -4,8 +4,11 @@ title: "Digital Stories for Change"
 description: "Digital Stories for Change submission from Lafayette FCCLA."
 ---
 
-<div class="banner">
-  <h1>Digital Stories for Change</h1>
+<div class="blue-banner">
+  <img src="{{site.baseurl}}/assets/images/banner-overlay-images/digitalStoriesBanner.png" 
+    alt = "testing"
+    class = "overlay-image"
+  >
 </div>
 
 <div class="wrapper">

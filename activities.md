@@ -3,9 +3,13 @@ layout: default
 title: "Activities"
 description: "Lafayette FCCLA activites calendar."
 ---
-<div class="banner">
-  <h1>Activities</h1>
+<div class="dot-banner">
+  <img src="{{site.baseurl}}/assets/images/banner-overlay-images/activitiesBanner.png" 
+    alt = "testing"
+    class = "overlay-image"
+  >
 </div>
+
 <div class="wrapper">
 <div class="canva">
 

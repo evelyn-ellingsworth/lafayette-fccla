@@ -3,8 +3,11 @@ layout: default
 title: "Supporter Recognition"
 description: "Learn about our chapters supporters."
 ---
-<div class="banner">
-  <h1>Chapter Supporter Recognition</h1>
+<div class="bow-banner">
+  <img src="{{site.baseurl}}/assets/images/banner-overlay-images/chapterSupporterBanner.png" 
+    alt = "testing"
+    class = "overlay-image"
+  >
 </div>
 
 <div class="wrapper">

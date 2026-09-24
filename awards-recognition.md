@@ -4,8 +4,11 @@ title: "Awards and Recognition"
 description: "Awards earn by members of Lafayette FCCLA."
 ---
 
-<div class="banner">
-  <h1>Awards and Recognition</h1>
+<div class="star-banner">
+  <img src="{{site.baseurl}}/assets/images/banner-overlay-images/awardsRecognitionBanner.png" 
+    alt = "testing"
+    class = "overlay-image"
+  >
 </div>
 
 <div class="wrapper">

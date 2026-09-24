@@ -4,8 +4,11 @@ title: "Membership"
 description: "Learn about membership requirements and benefits for Lafayette FCCLA."
 ---
 
-<div class="banner">
-  <h1>Membership</h1>
+<div class="checkered-banner">
+  <img src="{{site.baseurl}}/assets/images/banner-overlay-images/membershipBanner.png" 
+    alt = "testing"
+    class = "overlay-image"
+  >
 </div>
 
 <div class="wrapper">

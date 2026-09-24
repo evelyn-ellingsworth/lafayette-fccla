@@ -48,7 +48,98 @@
   width: 100%;
   min-height: 15vh;
 
-  background-image: url("{{site.baseurl}}/assets/images/stripeBackground.png");
+  background-image: url("{{site.baseurl}}/assets/images/banner-backgrounds/stripeBackground.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  display: flex;
+  align-items: center;      /* vertical centering */
+  justify-content: center;  /* horizontal centering */
+}
+.blue-banner {
+  width: 100%;
+  min-height: 15vh;
+
+  background-image: url("{{site.baseurl}}/assets/images/banner-backgrounds/blueBackground.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  display: flex;
+  align-items: center;      /* vertical centering */
+  justify-content: center;  /* horizontal centering */
+}
+.bow-banner {
+  width: 100%;
+  min-height: 15vh;
+
+  background-image: url("{{site.baseurl}}/assets/images/banner-backgrounds/bowBackground.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  display: flex;
+  align-items: center;      /* vertical centering */
+  justify-content: center;  /* horizontal centering */
+}
+.checkered-banner {
+  width: 100%;
+  min-height: 15vh;
+
+  background-image: url("{{site.baseurl}}/assets/images/banner-backgrounds/checkeredBackground.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  display: flex;
+  align-items: center;      /* vertical centering */
+  justify-content: center;  /* horizontal centering */
+}
+.dot-banner {
+  width: 100%;
+  min-height: 15vh;
+
+  background-image: url("{{site.baseurl}}/assets/images/banner-backgrounds/dotBackground.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  display: flex;
+  align-items: center;      /* vertical centering */
+  justify-content: center;  /* horizontal centering */
+}
+.gradient-banner {
+  width: 100%;
+  min-height: 15vh;
+
+  background-image: url("{{site.baseurl}}/assets/images/banner-backgrounds/gradientBackground.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  display: flex;
+  align-items: center;      /* vertical centering */
+  justify-content: center;  /* horizontal centering */
+}
+.princess-banner {
+  width: 100%;
+  min-height: 15vh;
+
+  background-image: url("{{site.baseurl}}/assets/images/banner-backgrounds/princessBanner1.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  display: flex;
+  align-items: center;      /* vertical centering */
+  justify-content: center;  /* horizontal centering */
+}
+.star-banner {
+  width: 100%;
+  min-height: 15vh;
+
+  background-image: url("{{site.baseurl}}/assets/images/banner-backgrounds/starBackground.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

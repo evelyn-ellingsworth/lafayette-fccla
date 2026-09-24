@@ -5,7 +5,7 @@ description: "Learn about FCCLA at Lafayette Senior High School."
 ---
 
 <div class="stripe-banner">
-  <img src="{{site.baseurl}}\assets\images\banner-home-black.png" 
+  <img src="{{site.baseurl}}\assets\images\banner-overlay-images\homeBannerBlack.png" 
     alt = "testing"
     class = "overlay-image"
   >

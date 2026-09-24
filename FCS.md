@@ -4,8 +4,11 @@ title: "Family and Consumer Sciences"
 description: "Learn about Family and Consumer Sciences at Lafayette High School."
 ---
 
-<div class="banner">
-  <h1>Family and Consumer Science</h1>
+<div class="blue-banner">
+  <img src="{{site.baseurl}}/assets/images/banner-overlay-images/fcsBanner.png" 
+    alt = "testing"
+    class = "overlay-image"
+  >
 </div>
 <div class="wrapper">
   <div class="fcs-layout">

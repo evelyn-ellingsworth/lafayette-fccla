@@ -4,8 +4,11 @@ title: "STAR Event Components"
 description: "Required documents for the STAR Event FCCLA Chapter Website."
 ---
 
-<div class="banner">
-  <h1>STAR Events Project Components</h1>
+<div class="star-banner">
+  <img src="{{site.baseurl}}/assets/images/banner-overlay-images/projectComponentsBanner.png" 
+    alt = "testing"
+    class = "overlay-image"
+  >
 </div>
 
 <div class="wrapper">
