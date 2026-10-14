@@ -1533,3 +1533,13 @@ details.nested {
 .text-content-3 h3{
   text-align: center;
 }
+
+.text-content-princess{
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.text-content-princess h3{
+  font-weight: bold;
+  text-align: center;
+}

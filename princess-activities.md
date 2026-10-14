@@ -16,7 +16,7 @@ background-color: pink-page-background
 <div class="wrapper">
   <div class="button-row-2">
     <a href="https://lafayette-fccla.com/princess-playdate" class="btn-princess"  >
-      Home
+      Home & Register
     </a>
     <a href="https://lafayette-fccla.com/princess-activities" class="btn-princess" >
       Activities

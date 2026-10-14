@@ -15,7 +15,7 @@ background-color: pink-page-background
 <div class="wrapper">
     <div class="button-row-2">
     <a href="https://lafayette-fccla.com/princess-playdate" class="btn-princess"  >
-      Home
+      Home & Register
     </a>
     <a href="https://lafayette-fccla.com/princess-activities" class="btn-princess" >
       Activities
@@ -39,7 +39,7 @@ background-color: pink-page-background
 
   <div class="image-container-3">
     <figure class="image-item-3">
-      <div class="text-content-1">
+      <div class="text-content-princess">
         <p>
         Please join Lafayette FCCLA as we host a half day camp for your little royals! Let your kids partake in a magical experience participating in crafts and games with their favorite princesses! 
         </p>
@@ -60,6 +60,10 @@ background-color: pink-page-background
 
 
 
+
 </div>
+
+
+
 
 

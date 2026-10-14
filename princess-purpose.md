@@ -15,7 +15,7 @@ background-color: pink-page-background
 <div class="wrapper">
     <div class="button-row-2">
     <a href="https://lafayette-fccla.com/princess-playdate" class="btn-princess"  >
-      Home
+      Home & Register
     </a>
     <a href="https://lafayette-fccla.com/princess-activities" class="btn-princess" >
       Activities
@@ -38,7 +38,7 @@ background-color: pink-page-background
   </div>
 
     <div class="text-content-3">
-    <h3><br>The purpose of this half day camp is to help fund-raise for Lafayette FCCLA while also making an attempt to give kids a fun and positive experience.</h3>
+    <h3><br>The purpose of this half day camp is to help fundraise for Lafayette FCCLA while giving kids a fun and positive experience.</h3>
     </div>
 
     <div class="image-container-3">
