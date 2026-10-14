@@ -14,6 +14,46 @@ description: "Learn about the current officers for Lafayette FCCLA."
   
 <div class="wrapper">
   <div class="officer-overview">
+      <h3> Lafayette FCCLA is lucky to have two amazing advisors to support our members achieve their goals.</h3>
+  </div> 
+
+  <!--president-->
+  <div class="image-container-2">
+    <figure class="image-item-2">
+      <div class="text-content">
+        <h2>Advisor</h2>
+        <h3>Ms. Grantz</h3>
+        <p>
+        </p>
+        <p>I am in my second year of teaching at Lafayette High School and my second year as an FCCLA advisor! I graduated from Eastern Kentucky University with a degree in Family and Consumer Sciences Education, and I currently teach FCS Essentials and Early Lifespan Development. I chose FCS because I love the flexibility of the field, working with people, and the opportunity to teach skills that students can use in their everyday lives. I am passionate about helping students make connections between what they learn in the classroom and the real world, and I love that FCS gives me the opportunity to do just that! 
+        </p>
+        </div>
+        <img src="{{site.baseurl}}/assets/images/grantz.png"
+          alt="Picture of Advisor"
+          class="image-size-1">
+    </figure>
+  </div>
+  <div class="image-container-2">
+    <figure class="image-item-2">
+      <div class="text-content">
+        <h2>Advisor</h2>
+        <h3>Mrs. Mullens</h3>
+        <p>
+        </p>
+        <p>I graduated with my Family and Consumer Sciences Education degree from Western Kentucky a university. This is my twelfth year teaching FCS and my second year as an FCCLA Adviser at Lafayette. I was an FCCLA Adviser at another KY high school for four years. I currently teach Fashion and Interior Design I, II, and III, and Childcare Services I and II.  I always knew I wanted to be a teacher and I chose FCS because I loved the classes and opportunities that I had as an FCS student at Lafayette and in FCCLA. The best part about my job is seeing students grow and helping them reach their own career goals!  
+        </p>
+        </div>
+        <img src="{{site.baseurl}}/assets/images/mullens.png"
+          alt="Picture of Advisor"
+          class="image-size-1">
+    </figure>
+  </div>
+
+
+
+
+  
+  <div class="officer-overview">
       <h3>For the 2026-2027 school year, we have nine officers that, with the help of our advisors, run the Lafayette Senior High School FCCLA Chapter.</h3>
   </div> 
 
