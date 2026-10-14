@@ -6,7 +6,7 @@ background-color: pink-page-background
 ---
 
 <div class="princess-banner">
-  <img src="{{site.baseurl}}/assets/images/banner-overlay-images/starBanner.png" 
+  <img src="{{site.baseurl}}/assets/images/banner-overlay-images/princessBanner.png" 
     alt = "testing"
     class = "overlay-image"
   >
@@ -14,7 +14,7 @@ background-color: pink-page-background
 
 <div class="wrapper">
     <div class="button-row-2">
-    <a href="https://lafayette-fccla.com/princess-playdate.com" class="btn-princess"  >
+    <a href="https://lafayette-fccla.com/princess-playdate" class="btn-princess"  >
       Home
     </a>
     <a href="https://lafayette-fccla.com/princess-activities" class="btn-princess" >
