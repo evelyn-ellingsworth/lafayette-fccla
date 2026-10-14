@@ -49,7 +49,7 @@ background-color: pink-page-background
       </div>
       <div class="text-content-3">
         <h2>Where Does the Money Go?</h2>
-        <p>All proceeds will go into funding the event and providing these opportunites for FCCLA members at Lafayette high school. This can include competition and travel fees as well as community service activities. test </p>
+        <p>All proceeds will go into funding the event and providing these opportunites for FCCLA members at Lafayette high school. This can include competition and travel fees as well as community service activities. </p>
       </div>
     </figure>
   </div>
