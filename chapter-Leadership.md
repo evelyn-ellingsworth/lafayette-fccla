@@ -28,7 +28,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         <p>I am in my second year of teaching at Lafayette High School and my second year as an FCCLA advisor! I graduated from Eastern Kentucky University with a degree in Family and Consumer Sciences Education, and I currently teach FCS Essentials and Early Lifespan Development. I chose FCS because I love the flexibility of the field, working with people, and the opportunity to teach skills that students can use in their everyday lives. I am passionate about helping students make connections between what they learn in the classroom and the real world, and I love that FCS gives me the opportunity to do just that! 
         </p>
         </div>
-        <img src="{{site.baseurl}}/assets/images/grantz.png"
+        <img src="{{site.baseurl}}/assets/images/leadership-images/grantz.png"
           alt="Picture of Advisor"
           class="image-size-1">
     </figure>
@@ -43,7 +43,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         <p>I graduated with my Family and Consumer Sciences Education degree from Western Kentucky a university. This is my twelfth year teaching FCS and my second year as an FCCLA Adviser at Lafayette. I was an FCCLA Adviser at another KY high school for four years. I currently teach Fashion and Interior Design I, II, and III, and Childcare Services I and II.  I always knew I wanted to be a teacher and I chose FCS because I loved the classes and opportunities that I had as an FCS student at Lafayette and in FCCLA. The best part about my job is seeing students grow and helping them reach their own career goals!  
         </p>
         </div>
-        <img src="{{site.baseurl}}/assets/images/mullens.png"
+        <img src="{{site.baseurl}}/assets/images/leadership-images/mullens.png"
           alt="Picture of Advisor"
           class="image-size-1">
     </figure>
@@ -71,7 +71,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         <p>May has been a member of FCCLA and STAR Event competitor for five years. She has won 1st at Regionals and State, while qualifying as a National Finalist over the past competition seasons. Last year, she placed 2nd in the nation in the STAR Event: Digital Stories for Change. May hopes to earn her Doctorate and pursue a career as an orthodontist. 
         </p>
         </div>
-        <img src="{{site.baseurl}}/assets/images/may.png"
+        <img src="{{site.baseurl}}/assets/images/leadership-images/may.png"
           alt="Picture of Chapter President"
           class="image-size-1">
     </figure>
@@ -88,7 +88,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         </p>
         <p>Marisa has been a member of FCCLA for six years and is our former Vice President of Public Relations (2024-2025) and Vice President of Community Service (2025-2026). She has placed in the top three twice at the National Leadership Conference, getting first place for Technology in Teaching and third for Impromptu Speaking. She also placed top 10 at the National Leadership Conference, competing in the Leadership competition. She's hoping to become a certified nursing assistant before eventually becoming a registered nurse.</p>
       </div>
-      <img src="{{site.baseurl}}/assets/images/marisa.png"
+      <img src="{{site.baseurl}}/assets/images/leadership-images/marisa.png"
           alt="Picture of Chapter First Vice President"
           class="image-size-1">
     </figure>
@@ -106,8 +106,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         </p>
         <p>Lane has been a member of FCCLA for four years and previously held the office of Vice President at the Lafayette FCCLA Chapter. She has competed in STAR Events for the three years, placing fifth at nationals in seventh grade and second at state in ninth grade. Lane hopes to become a lawyer after studying anthropology.</p>
       </div>
-
-          <img src="{{site.baseurl}}/assets/images/lane.png"
+          <img src="{{site.baseurl}}/assets/images/leadership-images/lane.png"
           alt="Picture of Chapter Vice President of Community Service"
           class="image-size-1">
     </figure>
@@ -125,8 +124,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         </p>
         <p>Eve has been an active member of FCCLA for one year. This year Eve is Vice President of Membership. She was a member last year that competed in her first STAR Events and competed in regionals. She placed second with Sports Nutrition. As Vice President of Membership she helps welcome new members and encourage current members to spread awareness of FCCLA. She has her Board of Membership that members join to be more active in this great opportunity.</p>
       </div>
-
-        <img src="{{site.baseurl}}/assets/images/eve.png"
+        <img src="{{site.baseurl}}/assets/images/leadership-images/eve.png"
           alt="Picture of Chapter Vice President of Membership"
           class="image-size-1">
     </figure>
@@ -144,8 +142,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         </p>
         <p>Mame has been an active FCCLA member for one year. During her first year, she competed in STAR Events, earning 1st place at Regionals, placing in the top four at State, and qualifying for the National Leadership Conference. At her first National Competition in D.C., Mame earned 2nd place. She currently serves as Vice President of Public Relations. Following graduation, Mame plans to pursue a Bachelor’s degree in Early Childhood Education and a doctoral degree in Clinical Psychology.</p>
       </div>
-
-          <img src="{{site.baseurl}}/assets/images/mame.png"
+          <img src="{{site.baseurl}}/assets/images/leadership-images/mame.png"
           alt="Picture of Chapter Vice President of Public Relations"
           class="image-size-1">
     </figure>
@@ -162,8 +159,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         </p>
         <p>Evelyn has been a member of FCCLA for six years and has competed in STAR Events every year. She has competed at the National Leadership Conference five times and won first in the nation for the Technology in Teaching Skills Competition in 2024. She hopes to become a robotics engineer and help people through the application of technology.</p>
       </div>
-
-          <img src="{{site.baseurl}}/assets/images/evie.png"
+          <img src="{{site.baseurl}}/assets/images/leadership-images/evie.png"
           alt="Picture of Chapter Vice President of Competitive Events"
           class="image-size-1">
     </figure>
@@ -179,8 +175,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         </p>
         <p>Ellie has been a member of FCCLA for two years and has competed in STAR Events both years. She was Co-Vice President of Membership (2025-2026). For the last two years she won first at both Regional and State Conference. This past year she also competed at nationals. She is an active part of all fundraisers and community service projects and hopes to find a career that enhances the leadership skills that she has learned from FCCLA. She hopes to pursue a career and higher education using the skill she has learned from her FCS Interior Design classes.</p>
       </div>
-
-          <img src="{{site.baseurl}}/assets/images/ellie.png"
+          <img src="{{site.baseurl}}/assets/images/leadership-images/ellie.png"
           alt="Picture of Chapter Vice President of Individual Programs"
           class="image-size-1">
     </figure>
@@ -197,8 +192,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         </p>
         <p>Lily has been an active member of FCCLA for four years. She is currently the Vice President of Finance but is also former Co-vice President of Community service (2024-2025). She participated in and planned multiple community service and fundraising projects. She has completed a Power of One, Junior Degree, and last year, she competed in her first STAR Event at regional competition and placed in the top three. Following graduation, she hopes to pursue a career and further education in marketing and fashion.</p>
       </div>
-
-          <img src="{{site.baseurl}}/assets/images/lily.png"
+          <img src="{{site.baseurl}}/assets/images/leadership-images/lily.png"
           alt="Picture of Chapter Vice President of Finance"
           class="image-size-1">
     </figure>
@@ -215,8 +209,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         </p>
         <p>Eva has been an active member in FCCLA for 4 years. She currently holds the title of Vice President of Peer Education, while previously holding the title of Co-Vice President of Membership (2025-2026) as well as 1st Vice President (2024-2025). She has also competed in Star Event for 3 years and for the last two won Regional and State Conference. This past year she also attended and competed in her first National Conference.</p>
       </div>
-
-          <img src="{{site.baseurl}}/assets/images/eva.png"
+          <img src="{{site.baseurl}}/assets/images/leadership-images/eva.png"
           alt="Picture of Chapter Vice President of Peer Education"
           class="image-size-1">
     </figure>
