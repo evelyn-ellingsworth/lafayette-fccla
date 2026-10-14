@@ -6,7 +6,7 @@ background-color: pink-page-background
 ---
 
 <div class="princess-banner">
-  <img src="{{site.baseurl}}/assets/images/banner-overlay-images/princessBanner.png" 
+  <img src="{{site.baseurl}}/assets/images/banner-overlay-images/starBanner.png" 
     alt = "testing"
     class = "overlay-image"
   >
