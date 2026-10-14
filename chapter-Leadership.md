@@ -28,7 +28,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
         <p>I am in my second year of teaching at Lafayette High School and my second year as an FCCLA advisor! I graduated from Eastern Kentucky University with a degree in Family and Consumer Sciences Education, and I currently teach FCS Essentials and Early Lifespan Development. I chose FCS because I love the flexibility of the field, working with people, and the opportunity to teach skills that students can use in their everyday lives. I am passionate about helping students make connections between what they learn in the classroom and the real world, and I love that FCS gives me the opportunity to do just that! 
         </p>
         </div>
-        <img src="{{site.baseurl}}/assets/images/grantz1.png"
+        <img src="{{site.baseurl}}/assets/images/grantz.png"
           alt="Picture of Advisor"
           class="image-size-1">
     </figure>
