@@ -23,7 +23,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
       <div class="text-content">
         <h2>Advisor</h2>
         <h3>Ms. Grantz</h3>
-        <p>
+        <p>An advisor's role is to provide support and advice for the officer team and all members. They sponsor FCCLA on a school level and manage everything from chapter meetings to National Convention.
         </p>
         <p>I am in my second year of teaching at Lafayette High School and my second year as an FCCLA advisor! I graduated from Eastern Kentucky University with a degree in Family and Consumer Sciences Education, and I currently teach FCS Essentials and Early Lifespan Development. I chose FCS because I love the flexibility of the field, working with people, and the opportunity to teach skills that students can use in their everyday lives. I am passionate about helping students make connections between what they learn in the classroom and the real world, and I love that FCS gives me the opportunity to do just that! 
         </p>
@@ -38,7 +38,7 @@ description: "Learn about the current officers for Lafayette FCCLA."
       <div class="text-content">
         <h2>Advisor</h2>
         <h3>Mrs. Mullens</h3>
-        <p>
+        <p>An advisor's role is to provide support and advice for the officer team and all members. They sponsor FCCLA on a school level and manage everything from chapter meetings to National Convention.
         </p>
         <p>I graduated with my Family and Consumer Sciences Education degree from Western Kentucky a university. This is my twelfth year teaching FCS and my second year as an FCCLA Adviser at Lafayette. I was an FCCLA Adviser at another KY high school for four years. I currently teach Fashion and Interior Design I, II, and III, and Childcare Services I and II.  I always knew I wanted to be a teacher and I chose FCS because I loved the classes and opportunities that I had as an FCS student at Lafayette and in FCCLA. The best part about my job is seeing students grow and helping them reach their own career goals!  
         </p>
