@@ -591,7 +591,10 @@
       margin-left: auto;
     }
 }
-
+.text-content-1 h3{
+  font-weight: bold;
+  text-align: center;
+}
 .text-content-1 h2{
   font-weight: bold;
   color: #ef3e42
@@ -1414,4 +1417,119 @@ details.nested {
 .pdf-container iframe {
   width: 100%;
   border: none;
+}
+
+
+//princess stuff
+
+.pink-page-background{
+  background-color: #fbdfef;
+}
+
+.button-row-2 {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem; // consistent spacing
+  margin-top: 0.75rem ;
+  margin-bottom: 0.75rem;
+}
+
+.btn-princess{
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+
+  font-size: 1rem;
+  font-weight: 600;
+
+  background-color: #e1afcc;
+  color: #000000;
+  text-decoration: none;
+
+  border:solid;
+  border-radius: 6px;
+  border-color: #d35b8c;
+  border-width: 2px;
+
+  transition: background-color 0.2s ease, transform 0.1s ease;
+
+  &:hover {
+    background-color: #004bb5;
+    text-decoration: none; // overrides Minima underline
+  }
+
+  &:active {
+    transform: translateY(1px);
+  }
+}
+.btn-princess:hover{
+  background-color: #c89ab5;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .button-row-2 {
+    flex-direction: column;
+  }
+
+  .button-row-2 .btn-princess {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+.button-row-2 .btn-princess {
+  flex: 1;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .button-row-2 {
+    gap: 0.75rem;
+  }
+
+  .button-row-2 .btn-princess {
+    width: 100%;
+    max-width: 320px;
+    padding: 0.6rem 1rem;
+    font-size: 0.95rem;
+    text-align: center;
+    margin: 0 auto;
+  }
+}
+
+.schedule-text h1{
+  font-weight: bold;
+  text-align: center;
+}
+.schedule-text h3{
+  font-weight: bold;
+  text-align: center;
+}
+
+
+.sponsor-text h3{
+  font-weight: bold;
+  text-align: center;
+}
+.sponsor-text p{
+  text-indent: 2em;
+  padding-top: 0.75rem;
+}
+.sponsor-text h2{
+  text-align: center;
+}
+
+.info-list p{
+  text-align: center;
+  text-indent: 0;
+}
+
+.text-content-3 h2{
+  font-weight: bold;
+}
+.text-content-3 p{
+  text-indent: 2em;
+}
+.text-content-3 h3{
+  text-align: center;
 }
