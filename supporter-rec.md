@@ -21,7 +21,7 @@ description: "Learn about our chapters supporters."
   <!--lafayette image-->
     <figure class="image-item">
       <a href="https://lafayette.fcps.net/" target="_blank">
-          <img src="{{site.baseurl}}/assets/images/lafayette.jpg"
+          <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/lafayette.jpg"
           alt="Picture of Lafayette High School"
           class="image-size-1">
       </a>
@@ -30,7 +30,7 @@ description: "Learn about our chapters supporters."
   <!--Advocacy Center-->
     <figure class="image-item">
       <a href="https://kykids.org/" target="_blank">
-            <img src="{{site.baseurl}}/assets/images/Childrens-Advocacy-Center-Of-The-Bluegrass-Lexington-Kentucky.png"
+            <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/Childrens-Advocacy-Center-Of-The-Bluegrass-Lexington-Kentucky.png"
           alt="Logo for the Children's Advocacy Center of the Bluegrass"
           class="image-size-1">
       </a>
@@ -42,7 +42,7 @@ description: "Learn about our chapters supporters."
   <!--lafayette image-->
     <figure class="image-item">
       <a href="https://ukhealthcare.uky.edu/golisano-childrens-uk/philanthropy/ways-give/wish-list" target="_blank">
-          <img src="{{site.baseurl}}/assets/images/uklogo.png"
+          <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/uklogo.png"
           alt="Picture of Lafayette High School"
           class="image-size-1">
       </a>
@@ -51,7 +51,7 @@ description: "Learn about our chapters supporters."
   <!--Advocacy Center-->
     <figure class="image-item">
       <a href="https://www.betaclub.org/" target="_blank">
-            <img src="{{site.baseurl}}/assets/images/betalogo.png"
+            <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/betalogo.png"
           alt="Logo for Senior Beta Club"
           class="image-size-1">
       </a>
@@ -64,7 +64,7 @@ description: "Learn about our chapters supporters."
   <!--lafayette image
     <figure class="image-item">
       <a href="https://lafayette.fcps.net/" target="_blank">
-          <img src="{{site.baseurl}}/assets/images/lafayette.jpg"
+          <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/lafayette.jpg"
           alt="Logo for DECA"
           class="image-size-1">
       </a>
@@ -73,7 +73,7 @@ description: "Learn about our chapters supporters."
   <!--Advocacy Center
     <figure class="image-item">
       <a href="https://kykids.org/" target="_blank">
-            <img src="{{site.baseurl}}/assets/images/Childrens-Advocacy-Center-Of-The-Bluegrass-Lexington-Kentucky.png"
+            <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/Childrens-Advocacy-Center-Of-The-Bluegrass-Lexington-Kentucky.png"
           alt="Logo for the National Honor Society"
           class="image-size-1">
       </a>
