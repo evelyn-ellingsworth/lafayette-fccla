@@ -86,7 +86,7 @@ description: "Learn about our chapters supporters."
   <!--Regional FCCLA-->
     <figure class="image-item">
       <a>
-          <img src="{{site.baseurl}}/assets/images/emblem 15.png"
+          <img src="{{site.baseurl}}/assets/images/logos/fccla/emblem 15.png"
           alt="Picture of FCCLA Emblem with the words Kentucky Region 15"
           class="image-size-1">
       </a>
@@ -94,7 +94,7 @@ description: "Learn about our chapters supporters."
   <!--Kentucky FCCLA-->
     <figure class="image-item">
       <a href="https://www.ky-fccla.org/" target="_blank">
-            <img src="{{site.baseurl}}/assets/images/emblem with ky.png"
+            <img src="{{site.baseurl}}/assets/images/logos/fccla/emblem with ky.png"
           alt="Picture of FCCLA Emblem with the words Kentucky State Association"
           class="image-size-1">
       </a>
@@ -105,7 +105,7 @@ description: "Learn about our chapters supporters."
   <!--National FCCLA-->
     <figure class="image-item">
       <a href= "https://fcclainc.org/" target= "_blank">
-            <img src="{{site.baseurl}}/assets/images/emblem.png"
+            <img src="{{site.baseurl}}/assets/images/logos/fccla/emblem.png"
           alt="Picture of FCCLA Emblem"
           class="image-size-1">
       </a>
