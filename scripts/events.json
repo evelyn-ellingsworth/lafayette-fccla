@@ -10,7 +10,7 @@
             "title": "Event Management",
             "author": "Sydney McGill and Josie Zegafuse",
             "description":"Hearts for Healing was a fundraising event to raise money for the Children's Advocacy Center of the Bluegrass. We planned auctions and activites to engage all people.",
-            "image": "./assets/images/starevent/heartsForHealing.jpg"
+            "image": "./assets/images/starevent/heartsForHealing.JPG"
         },
         {
             "title": "Focus on Children",
@@ -28,13 +28,13 @@
             "title": "Leadership",
             "author": "Marisa Presley",
             "description":"Leadership is an event that allows you to explore waht it's like to be a good leader and what leadership qualitites are required to be a successful leader by reading a leadership book of your choice and applying knowledge from the book and feedback from adults in your life to improve your own leadership skills. I read the book 'The Leader You Want to be: Five Essential Principlesfor Bringing Out Your Best Self Everyday' and I talked to teachers and advisors to give me feedback on my leadership skills before and after the project.",
-            "image": "./assets/images/"
+            "image": "./assets/images/starevent/leadership.heic"
         },
         {
             "title": "Teach or Train",
             "author": "Mame Sakho",
             "description":"Teaching children emotional awareness: Mame collaborated with early childhood educators to develop engaging, age-appropriate lesson plans focused on strengthening children's emotional awareness and understanding. Through interactiive activites, storytelling, and role-playing exercieses, I explored ways to help young children identify, express, and manage their emotions while developing healthy communication and social-emotional skills.",
-            "image": "./assets/images/"
+            "image": "./assets/images/starevent/teachAndTrain.jpeg"
         }
 
     ]
