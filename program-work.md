@@ -26,10 +26,10 @@ description: "Learn about the Lafayette FCCLA's program of work."
 
   <div class ="pdf-container">
   <!-- When you get the embed link from the pdf, it will have more than you need. Just replace the link within the src= "__" with the new link in the embed code.--> 
-    <iframe src="" width="640" height="480">
+    <iframe src="https://drive.google.com/file/d/1bvkqr24Wz0Qon9ezkppoR8iMR3R7qRtI/preview" width="640" height="480">
       <p>
         This browser does not support PDF viewing.
-        <a href="">Download the PDF</a>.
+        <a href="https://drive.google.com/file/d/1bvkqr24Wz0Qon9ezkppoR8iMR3R7qRtI/preview">Download the PDF</a>.
       </p>
     </iframe>
   </div>
