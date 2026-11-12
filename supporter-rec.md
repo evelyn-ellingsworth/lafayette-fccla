@@ -66,7 +66,7 @@ description: "Learn about our chapters supporters."
           alt="Logo for General Outfitters"
           class="image-size-1">
       </a>
-      <figcaption>DECA</figcaption>
+      <figcaption>General Outfitters</figcaption>
     </figure>
     
     <figure class="image-item">
