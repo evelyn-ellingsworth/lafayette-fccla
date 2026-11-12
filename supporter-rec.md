@@ -46,7 +46,6 @@ description: "Learn about our chapters supporters."
           alt="Picture of Lafayette High School"
           class="image-size-1">
       </a>
-    
     </figure>
   <!--Advocacy Center-->
     <figure class="image-item">
@@ -58,19 +57,18 @@ description: "Learn about our chapters supporters."
       <figcaption>Senior Beta Club</figcaption>
     </figure>
   </div>
-
-  <!--
+  
+  
   <div class="image-container">
-  <!--lafayette image
     <figure class="image-item">
-      <a href="https://lafayette.fcps.net/" target="_blank">
-          <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/lafayette.jpg"
-          alt="Logo for DECA"
+      <a href="https://sites.google.com/fayette.kyschools.us/general-outfitters/merchandise" target="_blank">
+          <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/general_outfiters.png"
+          alt="Logo for General Outfitters"
           class="image-size-1">
       </a>
       <figcaption>DECA</figcaption>
     </figure>
-  <!--Advocacy Center
+    
     <figure class="image-item">
       <a href="https://kykids.org/" target="_blank">
             <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/Childrens-Advocacy-Center-Of-The-Bluegrass-Lexington-Kentucky.png"
@@ -80,7 +78,7 @@ description: "Learn about our chapters supporters."
       <figcaption>National Honor Society</figcaption>
     </figure>
   </div>
-  -->
+
 
   <div class="image-container">
   <!--Regional FCCLA-->
