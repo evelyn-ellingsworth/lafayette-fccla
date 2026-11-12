@@ -39,7 +39,7 @@ description: "Learn about our chapters supporters."
   </div>
 
   <div class="image-container">
-  <!--lafayette image-->
+  <!--uk childrens hospital-->
     <figure class="image-item">
       <a href="https://ukhealthcare.uky.edu/golisano-childrens-uk/philanthropy/ways-give/wish-list" target="_blank">
           <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/uklogo.png"
@@ -47,7 +47,7 @@ description: "Learn about our chapters supporters."
           class="image-size-1">
       </a>
     </figure>
-  <!--Advocacy Center-->
+  <!--beta-->
     <figure class="image-item">
       <a href="https://www.betaclub.org/" target="_blank">
             <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/betalogo.png"
@@ -58,7 +58,7 @@ description: "Learn about our chapters supporters."
     </figure>
   </div>
   
-  
+  <!--gen outfitters-->
   <div class="image-container">
     <figure class="image-item">
       <a href="https://sites.google.com/fayette.kyschools.us/general-outfitters/merchandise" target="_blank">
@@ -68,14 +68,14 @@ description: "Learn about our chapters supporters."
       </a>
       <figcaption>General Outfitters</figcaption>
     </figure>
-    
+    <!--TLC-->
     <figure class="image-item">
       <a href="https://www.facebook.com/61591387237451/" target="_blank">
             <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/tlc.PNG"
           alt="Logo for TLC Collection"
           class="image-size-1">
       </a>
-      <figcaption>TLC Collection</figcaption>
+      <figcaption></figcaption>
     </figure>
   </div>
 
