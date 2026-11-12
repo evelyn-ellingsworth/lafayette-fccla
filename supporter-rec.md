@@ -71,7 +71,7 @@ description: "Learn about our chapters supporters."
     
     <figure class="image-item">
       <a href="https://www.facebook.com/61591387237451/" target="_blank">
-            <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/tlc.png"
+            <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/tlc.PNG"
           alt="Logo for TLC Collection"
           class="image-size-1">
       </a>
