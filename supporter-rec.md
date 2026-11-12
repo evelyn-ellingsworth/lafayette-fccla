@@ -79,6 +79,27 @@ description: "Learn about our chapters supporters."
     </figure>
   </div>
 
+   <!--DECA-->
+  <div class="image-container">
+    <figure class="image-item">
+      <a href="https://lafayette-deca.com/" target="_blank">
+          <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/Lafayette High School DECA Horiz-01.png"
+          alt="Logo for Lafayette High School DECA"
+          class="image-size-1">
+      </a>
+      <figcaption></figcaption>
+    </figure>
+    <!--TLC-->
+    <figure class="image-item">
+      <a href="" target="_blank">
+            <img src=""
+          alt="Coming Soon!"
+          class="image-size-1">
+      </a>
+      <figcaption></figcaption>
+    </figure>
+  </div>
+
 
   <div class="image-container">
   <!--Regional FCCLA-->
