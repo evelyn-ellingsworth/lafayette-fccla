@@ -70,12 +70,12 @@ description: "Learn about our chapters supporters."
     </figure>
     
     <figure class="image-item">
-      <a href="https://kykids.org/" target="_blank">
-            <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/Childrens-Advocacy-Center-Of-The-Bluegrass-Lexington-Kentucky.png"
-          alt="Logo for the National Honor Society"
+      <a href="https://www.facebook.com/61591387237451/" target="_blank">
+            <img src="{{site.baseurl}}/assets/images/logos/supporter-pictures/tlc.png"
+          alt="Logo for TLC Collection"
           class="image-size-1">
       </a>
-      <figcaption>National Honor Society</figcaption>
+      <figcaption>TLC Collection</figcaption>
     </figure>
   </div>
 
