@@ -12,7 +12,7 @@ description: "Learn about our chapters supporters."
 
 <div class="wrapper">
   <div class="overall-thanks-section">
-      <h3>Without the support of our school and community we would not be able to provide the opportunities and leadership experience that we are today. Thank you to all the supporters of Lafayette Senior High School FCCLA.</h3>
+      <h3>Without the support of our school and community we would not be able to provide the opportunities and leadership experiences that we can today. Thank you to all the supporters of Lafayette Senior High School FCCLA!</h3>
   </div>
   <div class = "info">
   <h3>Click on the images to learn more!</h3>
